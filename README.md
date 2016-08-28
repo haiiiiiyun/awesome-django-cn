@@ -10,65 +10,65 @@
 
 
 - [Awesome Django](#awesome-django)
-    - [Admin Interface](#admin-interface)
-    - [Analytics](#analytics)
-    - [Asset Management](#asset-management)
-    - [Authentication](#authentication)
-    - [Authorization](#authorization)
-    - [Blog Management](#blog-management)
-    - [Boilerplate](#boilerplate)
-    - [Caching](#caching)
-    - [Compatibility](#compatibility)
-    - [Dashboards](#dashboards)
-    - [Data Sciences](#data-sciences)
-    - [Database](#database)
-    - [Debugging](#debugging)
+    - [管理界面](#admin-interface)
+    - [分析](#analytics)
+    - [资料管理](#asset-management)
+    - [认证](#authentication)
+    - [授权](#authorization)
+    - [Blog 管理](#blog-management)
+    - [样板](#boilerplate)
+    - [缓存](#caching)
+    - [兼容性](#compatibility)
+    - [仪表盘](#dashboards)
+    - [数据科学Data Sciences](#data-sciences)
+    - [数据库](#database)
+    - [调试](#debugging)
     - [Email](#email)
-    - [Fields](#fields)
-    - [File Transfers](#file-transfers)
+    - [数据项](#fields)
+    - [文件传输](#file-transfers)
     - [表单](#forms)
     - [GIS](#gis)
-    - [Image handling](#image-handling)
-    - [Import/Export](#importexport)
-    - [Migrations](#migrations)
-    - [Mobile Support](#mobile-support)
-    - [Model Extensions](#model-extensions)
-    - [Payment Processing](#payment-processing)
-    - [Project Management](#project-management)
-    - [Reporting](#reporting)
+    - [图片处理](#image-handling)
+    - [导入/导出](#importexport)
+    - [数据迁移](#migrations)
+    - [移动端支持](#mobile-support)
+    - [数据模型扩展](#model-extensions)
+    - [支持处理](#payment-processing)
+    - [项目管理](#project-management)
+    - [报告](#reporting)
     - [RESTful API](#restful-api)
     - [SEO](#seo)
-    - [Search](#search)
-    - [Security](#security)
-    - [Settings](#settings)
-    - [Storage](#storage)
-    - [Tagging](#tagging)
-    - [Task Queue](#task-queue)
-    - [Testing](#testing)
-    - [Thumbnail](#thumbnail)
-    - [Translations](#translations)
-    - [Views](#views)
-    - [Web frontend integration](#web-frontend-integration)
-    - [Wiki apps](#wiki-apps)
-    - [Workflows](#workflows)
-    - [WYSIWYG Editors](#wysiwyg-editors)
-    - [Other](#other)
-- [Projects](#projects)
+    - [搜索](#search)
+    - [安全性](#security)
+    - [设置](#settings)
+    - [存储](#storage)
+    - [标签](#tagging)
+    - [任务队列](#task-queue)
+    - [测试](#testing)
+    - [缩略图](#thumbnail)
+    - [翻译](#translations)
+    - [视图](#views)
+    - [Web 前端集成](#web-frontend-integration)
+    - [Wiki 应用 ](#wiki-apps)
+    - [工作流](#workflows)
+    - [所见即所得编辑器](#wysiwyg-editors)
+    - [其它](#other)
+- [项目](#projects)
     - [CMS](#cms)
-    - [Document Management](#document-management)
-    - [Project Management](#project-management)
-    - [e-Commerce](#e-commerce)
-    - [Other](#other)
-- [Resources](#resources)
-    - [Books](#books)
-    - [Conferences](#conferences)
-    - [External documentation](#external-documentation)
-    - [Videos](#videos)
-    - [Websites](#websites)
-- [Utilities](#utilities)
-- [Contributing](#contributing)
+    - [文档管理](#document-management)
+    - [项目管理](#project-management)
+    - [电子商务](#e-commerce)
+    - [其它](#other)
+- [资源](#resources)
+    - [图书](#books)
+    - [会议](#conferences)
+    - [外部文档](#external-documentation)
+    - [视图](#videos)
+    - [网站](#websites)
+- [工具](#utilities)
+- [贡献](#contributing)
 
-## Admin interface
+## 管理界面
 
 *Packages that extend the Admin interface, adding or improving features.*
 
@@ -91,13 +91,13 @@
 * [django-xadmin](https://github.com/sshwsfc/django-xadmin/) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap
 * [yawd-admin](https://github.com/yawd/yawd-admin/) - An administration website for Django
 
-## Analytics
+## 分析
 
 *Packages that do web analytics or integrate web analytics services.*
 
 * [django-analytical](https://github.com/jcassee/django-analytical) - Integrates analytics services with a generic interface, templates stay clean.
 
-## Asset Management
+## 资料管理
 
 *Packages that help manage the static assets of a project.*
 
@@ -109,7 +109,7 @@
 * [django-webpack-loader](https://github.com/owais/django-webpack-loader/) - Transparent webpack integration for django.
 * [python-webpack](https://github.com/markfinger/python-webpack) - Python bindings for webpack with django integration.
 
-## Authentication
+## 认证
 
 *Packages that improve or extend the authentication methods of Django.*
 
@@ -122,7 +122,7 @@
 * [django-userena](https://github.com/bread-and-pepper/django-userena/) - Accounts for Django made beautifully simple
 * [python-social-auth](https://github.com/omab/python-social-auth/) - Python Social Auth is an easy-to-setup social authentication/registration mechanism with support for several frameworks and auth providers.
 
-## Authorization
+## 授权
 
 *Packages related to authorization infrastructure and permissions.*
 
@@ -133,14 +133,14 @@
 * [django-permission](https://github.com/lambdalisue/django-permission/) An enhanced permission library which enables a *logic-based permission system* to handle complex permissions in Django
 * [django-rules](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions to Django, without requiring a database. At its core, it is a generic framework for building rule-based systems, similar to decision trees. It can also be used as a standalone library in other contexts and frameworks.
 
-## Blog Management
+## Blog 管理
 
 *Packages to build and manage a blog app.*
 
 * [django-blog-zinnia](https://github.com/Fantomas42/django-blog-zinnia) -  Simple yet powerful and really extendable application for managing a blog within your Django Web site.
 * [puput](https://github.com/APSL/puput) - A Django blog app implemented in Wagtail.
 
-## Boilerplate
+## 样板
 
 *Packages related to smart a new project starting.*
 
@@ -148,7 +148,7 @@
 * [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications, containing various social authentication methods and several popular API examples.
 * [edge](https://github.com/arocks/edge) - A Django project skeleton that is modern and cutting edge.
 
-## Caching
+## 缓存
 
 *Packages that help with caching.*
 
@@ -160,26 +160,26 @@
 * [django-redis-cache](https://github.com/sebleier/django-redis-cache/) - A Redis cache backend for django.
 * [johnny-cache](https://github.com/jmoiron/johnny-cache/) - Johnny Cache is a caching framework for django applications.
 
-## Compatibility
+## 兼容性
 
 *Packages that help to keep compatibility of reusable apps between different Django versions.*
 
 * [django-compat](https://github.com/arteria/django-compat) - For- and backwards compatibility layer for the officially  supported Django versions.
 * [django-compat-lint](https://github.com/ubernostrum/django-compat-lint) - Check Django compatibility of your code.
 
-## Dashboards
+## 仪表盘
 
 *Packages that create information dashboards to visualize data.*
 
 * [django-dashing](https://github.com/talpor/django-dashing/) - a customisable, modular dashboard application framework for Django to visualize interesting data about your project. Inspired in the exceptionally handsome dashboard framework Dashing.
 
-## Data sciences
+## 数据科学
 
 *Packages that make it easier to work with large volumes of data.*
 
 * [rest-pandas](https://github.com/wq/django-rest-pandas/) - Serves up your Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel).
 
-## Database
+## 数据库
 
 *Packages that add support for 3rd party databases or database specific features.*
 
@@ -188,7 +188,7 @@
 * [django-postgres-fuzzycount](https://github.com/stephenmcd/django-postgres-fuzzycount) - Fast / fuzzy PostgreSQL counts for Django.
 * [django-postgrespool](https://github.com/kennethreitz/django-postgrespool/) - Postgres Connection Pooling for Django, powered by SQLAlchemy.
 
-## Debugging
+## 调试
 
 *Packages that help hunt down bugs.*
 
@@ -216,7 +216,7 @@
 * [djmail](https://github.com/bameda/djmail) - A simple and nonobstructive django email middleware.
 * [djrill](https://github.com/brack3t/Djrill/) - Email backend and new message class for Mandrill transactional email service from MailChimp.
 
-## Fields
+## 数据项
 
 *Packages that extend the functionality of existing field type or add new field types.*
 
@@ -236,7 +236,7 @@ phone numbers.
 * [django-uuidfield](https://github.com/dcramer/django-uuidfield/) - A UUIDField for Django.
 * [django-versatileimagefield](https://github.com/WGBH/django-versatileimagefield/) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
 
-## File Transfers
+## 文件传输
 
 *Packages that help transfer files between projects and users.*
 
@@ -262,31 +262,31 @@ phone numbers.
 * [django-spillway](https://github.com/bkg/django-spillway/) -  Geodata extensions for Django REST Framework.
 * [djangorestframework-gis](https://github.com/djangonauts/django-rest-framework-gis/) - Geographic add-ons for Django Rest Framework.
 
-## Image handling
+## 图片处理
 
 *Packages that help to manipulate, alter, or convert images.*
 
 * [django-image-cropping](https://github.com/jonasundderwolf/django-image-cropping) - helper application to easily and non-destructively crop arbitrarily large images in admin and frontend.
 * [django-versatileimagefield](https://github.com/WGBH/django-versatileimagefield/) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
 
-## Import/Export
+## 导入/导出
 
 *Packages that load, import or export data from a project.*
 
-## Migrations
+## 数据迁移
 
 *Packages that help migrate the database when there are schema updates.*
 
 * [South](https://bitbucket.org/andrewgodwin/south/src/) - Django application to provide schema and data migrations that supports Django up to 1.6.x. ([Django 1.7 and up have an integrated migration system, based on but not compatible with South](https://docs.djangoproject.com/en/dev/topics/migrations/))
 
-## Mobile Support
+## 移动端支持
 
 *Packages that help you support for mobile iOS, Android and Others.*
 
 * [django-push-notifications](https://github.com/jleclanche/django-push-notifications) - A minimal Django app that implements Device models that can send messages through APNS and GCM.
 * [django-pushy](https://github.com/rakanalh/django-pushy) - Django app that provides push notifications functionality with celery. The main purpose of this app is to help you send push notifications to your users at scale. If you have lots of registered device keys, django-pushy will split your keys into smaller groups which run in parallel making the process of sending notifications faster.
 
-## Model Extensions
+## 数据模型扩展
 
 *Packages that extend the functionality of models or add new classes of models.*
 
@@ -296,7 +296,7 @@ phone numbers.
 * [django-mptt](https://github.com/django-mptt/django-mptt/) - Utilities for implementing a modified pre-order traversal tree in django.
 * [django-treebeard](https://github.com/tabo/django-treebeard) -Alternative tree data structures for Django (provides 3 different methods for storing hierarchical data, including MPTT )
 
-## Payment Processing
+## 支付处理
 
 *Packages that provide payment processing provider integration.*
 
@@ -309,11 +309,11 @@ phone numbers.
 * [django-pinpayments](https://github.com/rossp/django-pinpayments/) - Django library to simplify payment processing with pin.
 * [django-zebra](https://github.com/GoodCloud/django-zebra/) - Forms, widgets, template tags and examples that make Stripe + Django easier.
 
-## Project Management
+## 项目管理
 
 * [django-timepiece](https://github.com/caktus/django-timepiece/) - A multi-user Django application for tracking people's time on projects.
 
-## Reporting
+## 报告
 *Packages for creating reports*
 
 * [django-model-report](https://github.com/juanpex/django-model-report/) - Django reports integrated with highcharts. 
@@ -332,7 +332,7 @@ phone numbers.
 * [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps since 2010.
 * [restless](https://github.com/toastdriven/restless/) - A lightweight REST miniframework for Python
 
-## Search
+## 搜索
 
 *Packages that provide search capabilities to projects.*
 
@@ -340,7 +340,7 @@ phone numbers.
 * [django-watson](https://github.com/etianen/django-watson/) - Fast multi-model full-text search plugin.
 * [djorm-ext-pgfulltext](https://github.com/linuxlewis/djorm-ext-pgfulltext) - PostgreSQL full-text search integration with django orm.
 
-## Security
+## 安全性
 
 *Packages that improve the security of a project.*
 
@@ -363,7 +363,7 @@ phone numbers.
 * [django-robots](https://github.com/jazzband/django-robots) - A Django app for managing robots.txt files following the robots exclusion protocol.
 * [django-seo2](https://github.com/romansalin/django-seo2/) - Provides a set of tools for managing Search Engine Optimisation (SEO) metadata for Django sites.
 
-## Settings
+## 设置
 
 *Packages that help manage the configurability of projects.*
 
@@ -373,7 +373,7 @@ phone numbers.
 * [django-environ](https://github.com/joke2k/django-environ) - Allows you to utilize 12factor inspired environment variables to configure your Django application.
 * [django-split-settings](https://github.com/sobolevn/django-split-settings) - Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files.
 
-## Storage
+## 存储
 
 *Packages that extend the functionality of the existing storage backend or provide new storage backends.*
 
@@ -383,12 +383,12 @@ phone numbers.
 * [django-queued-storage](https://github.com/jazzband/django-queued-storage) - Provides a proxy for Django storage backends that allows you to upload files locally and eventually serve them remotely.
 * [django-webdav-storage](https://github.com/marazmiki/django-webdav-storage) - Django storage backend that stores files in custom WebDAV storage.
 
-## Tagging
+## 标签
 
 * [django-taggit](https://github.com/alex/django-taggit/) - Simple tagging for Django.
 * [django-taggit-helpers](https://github.com/mfcovington/django-taggit-helpers) - Django admin helper classes for django-taggit tags.
 
-## Task Queue
+## 任务队列
 
 *Packages that make working with task/background queues easier.*
 
@@ -397,7 +397,7 @@ phone numbers.
 * [django-rq](https://github.com/ui/django-rq) - The easiest way to monitor and use [RQ](http://python-rq.org) in your Django projects.
 * [huey](https://github.com/coleifer/huey/) - A little multi-threaded task queue for python.
 
-## Testing
+## 测试
 
 *Packages that help test code or generate test data.*
 
@@ -420,7 +420,7 @@ phone numbers.
 * [pytest-django](https://pypi.python.org/pypi/pytest-django/) - Test runner using py.test
 * [splinter](https://github.com/cobrateam/splinter/) - Test framework for web applications.
 
-## Thumbnail
+## 缩略图
 
 *Packages that help generate thumbnails.*
 
@@ -429,7 +429,7 @@ phone numbers.
 * [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Easy thumbnails for Django.
 * [sorl-thumbnail](https://github.com/mariocesar/sorl-thumbnail/) - Thumbnails for Django.
 
-## Translations
+## 翻译
 
 *Packages help with the task of translating projects.*
 
@@ -439,21 +439,21 @@ phone numbers.
 * [django-parler](https://github.com/edoburu/django-parler) - Simple Django model translations without nasty hacks
 * [django-rosetta](https://github.com/mbi/django-rosetta/) - Rosetta is a Django application that eases the translation process of your Django projects.
 
-## Views
+## 视图
 
 *Packages that enhance or provide new view classes.*
 
 * [django-extra-views](https://github.com/AndrewIngram/django-extra-views/) - Django's class-based generic views are awesome, let's have more of them.
 * [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views/) - Beautifully simple class-based views.
 
-## Web frontend integration
+## Web 前端集成
 
 * [django-angular](https://github.com/jrief/django-angular/) - Let AngularJS play well with Django.
 * [django-bower](https://github.com/nvbn/django-bower) - Easy way to use [bower](http://bower.io) with your Django project.
 * [django-js-reverse](https://github.com/ierror/django-js-reverse) - Javascript url handling for Django that doesn't hurt.
 * [djangular](https://github.com/appliedsec/djangular/) - A reusable Django app that provides better integration and tools for Angular.js.
 
-## WYSIWYG Editors
+## 所见即所得编辑器
 
 *Packages that makes text editing awesome.*
 
@@ -463,12 +463,12 @@ phone numbers.
 * [django-wysiwyg](https://github.com/pydanny/django-wysiwyg/) - A Django application for making Django textareas rich text editors. Certainly as a template tag and possibly as a form widget.
 * [django-wysiwyg-redactor](https://github.com/douglasmiranda/django-wysiwyg-redactor/) - A lightweight wysiwyg editor for Django.
 
-## Wiki apps
+## Wiki 应用
 
 * [django-wiki](https://github.com/django-wiki/django-wiki) A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
 * [waliki](https://github.com/mgaitan/waliki) An extensible wiki app for Django with a Git backend.
 
-## Workflows
+## 工作流
 
 *Packages that do process, procedure and/or business tasks management.*
 
@@ -480,7 +480,7 @@ phone numbers.
 * [django-workflows](https://bitbucket.org/jerzyk/django-workflows/) - django-workflows provides a generic workflow engine for Django.
 * [django-xworkflows](https://github.com/rbarrois/django_xworkflows/) - Library to plug xworkflows into django models.
 
-## Other
+## 其它
 
 * [django-activeurl](https://github.com/hellysmile/django-activeurl) - Easy to use active URL highlighting for django
 * [django-activity-stream](https://github.com/justquick/django-activity-stream/) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
@@ -518,7 +518,7 @@ phone numbers.
 * [micawber](https://github.com/coleifer/micawber/) - A small library for extracting rich content from urls.
 * [towel](https://github.com/matthiask/towel/) - a collection of tools which make your life easier if you are building a web application using Django.
 
-# Projects
+# 项目
 
 *Outstanding Django projects.*
 
@@ -531,11 +531,11 @@ phone numbers.
 * [wagtail](https://github.com/torchbox/wagtail/) - A new Django content management system.
 * [leonardo](https://github.com/django-leonardo/django-leonardo/) - A new Django content management system built on top of FeinCMS and OpenStack Horizon.
 
-## Document Management
+## 文档管理
 
 * [mayan-edms](https://github.com/mayan-edms/mayan-edms/) - Open source, Django based DMS (document management system) with custom metadata indexing, file serving integration, OCR capabilities, document versioning and electronic signature verification.
 
-## e-Commerce
+## 电子商务
 
 * [Cartridge](https://github.com/stephenmcd/cartridge) - Ecommerce for Django/Mezzanine.
 * [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.
@@ -544,23 +544,23 @@ phone numbers.
 * [Satchless](http://satchless.com) - Satchless brings e-commerce and Python together.
 * [Satchmo](https://bitbucket.org/chris1610/satchmo/src/) - Satchmo is an eCommerce framework creatde in Django which allows you to develop unique and robust online stores.
 
-## Other
+## 其它
 
 * [Django packages](https://github.com/pydanny/djangopackages/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
 * [django-salted](https://github.com/wunki/django-salted/) - Full stack SaltStack configuration for Django with the help of Vagrant.
 * [Drum](https://github.com/stephenmcd/drum) - Reddit / Hacker News clone for Django/Mezzanine.
 * [koalixcrm](https://github.com/tfroehlich82/koalixcrm) - Beautiful CRM/ERP for small business.
 
-## Project Management
+## 项目管理
 
 * [ITSY](https://github.com/orges/itsy/) - Issue Tracking System
 * [taiga](https://github.com/taigaio/taiga-back) - Agile, Free and Open Source Project Management Tool
 
-# Resources
+# 资源
 
 *Where to discover new Django apps and projects.*
 
-## Books
+## 图书
 
 * [Django by Example](https://github.com/kevinlondon/django-by-example) (1.2)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/) (&lt; 1.7)
@@ -572,7 +572,7 @@ phone numbers.
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.7)
 * [Two Scoops of Django: Best Practices for Django 1.8](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8/) - A best practice book for making Python and Django as fun as ice cream.
 
-## Websites
+## 网站
 
 * [Django Girls Tutorial](http://tutorial.djangogirls.org/) - A fun and engaging tutorial showing how to build a blog using Django and deploy it to Heroku.
 * [Django Introduction](http://www.django-introduction.com/) - A reusable set of slides to educate more people about Django.
@@ -580,7 +580,7 @@ phone numbers.
 * [Django Sites](https://www.djangosites.org) - Django Sites is a showcase of websites powered by Django.
 * [Full Stack Python's Django page](http://www.fullstackpython.com/django.html) - contains explanations for Django's philosophy and its components along with links to other resources and tutorials.
 
-## Conferences
+## 会议
 
 * [Django Beer](https://www.djangobeer.com/) - the new meeting of the Django community of Florence.
 * [Django Village](http://djangovillage.it/) - the Italian Django community conference. An opportunity to meet djangonauts from all over Italy and abroad.
@@ -589,32 +589,32 @@ phone numbers.
 * [DjangoCon Europe](http://www.djangocon.eu/) - is the annual largest European-based Django conference that is usually held in late spring.
 * [DjangoCon US](http://www.djangocon.us/) - is the largest North American Django conference generally held the first week in September each year.
 
-# Non Python packages
+# 非 Python 包
 
 * [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - A cookiecutter template for creating Django projects quickly.
 
-## External documentation
+## 外部文档
 
 *Additional sources of information about django features.*
 
 * [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions, with full methods and attributes, for each of Django's class-based generic views.
 * [Classy Django REST Framework](http://www.cdrf.co/) - Detailed descriptions, with full methods and attributes, for each of Django REST Framework's class-based views and serializers.
 
-## Videos
+## 视频
 
 * [CodingforEntrepreneur](https://www.codingforentrepreneurs.com/projects/) - One of the best collection of Django Videos and all the projects are written in Django.
 * [GoDjango](https://godjango.com) - Django videos from basics to advanced. Covering 3rd party apps to core Django compontents.
 * [Must Watch Django Videos](https://github.com/rosarior/django-must-watch/) - Must-watch videos about Django (or about Python as applied to Django)
 * [One Month Django](https://onemonth.com) - The video series will teach you Django in one month
 
-# Utilities
+# 工具
 
 *Non Django projects that make it easier to work with Django.*
 
 * [Django-manage.py-anywhere](https://github.com/timonweb/Django-manage.py-anywhere/) - Run manage.py commands from anywhere. Finds closest to current path manage.py file and runs commands against it.
 * [Logan](https://github.com/dcramer/logan) - A toolkit for running standalone Django applications. It provides you with tools to create a CLI runner, manage settings, and the ability to bootstrap the process.
 
-# Contributing
+# 贡献
 
 Just fork and send a pull request with your awesome Django apps, projects or resources.
 By contributing you agree to abide by the Code of Merit.
