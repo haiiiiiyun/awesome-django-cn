@@ -1,11 +1,12 @@
-# Django 优秀应用、项目和资源大全。
+# Django 优秀资源大全。
 
-# <a href="http://awesome-django.com"><img src="https://raw.githubusercontent.com/rosarior/awesome-django/gh-pages/images/logo-small.png" align="absmiddle"/> Awesome Django</a> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Django ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 ## 介绍
-[Awesome-Django](https://github.com/rosarior/awesome-django) 是由 [Roberto Rosario](https://github.com/rosarior) 发起和维护的 Django 资源列表。该列表收集了许多 Django 相关的优秀应用、项目等资源，方便了 Django 用户参考查阅。
 
-[Django 优秀资源大全中文版](https://github.com/haiiiiiyun/awesome-django-cn) 则是依据 [Awesome-Django](https://github.com/rosarior/awesome-django) 翻译而来。也欢迎你帮助推荐和提供建议！此外，在第二部分，有一些比较好的推荐文章或者教程，希望在后期能够帮助翻译成中文。
+[Awesome-Django](https://github.com/rosarior/awesome-django) 是由 [Roberto Rosario](https://github.com/rosarior) 发起和维护的 Django 资源列表。该列表收集了大量 Django 相关的优秀应用、项目等资源，方便了 Django 用户参考查阅。
+
+[Django 优秀资源大全](https://github.com/haiiiiiyun/awesome-django-cn) 则是依据 [Awesome-Django](https://github.com/rosarior/awesome-django) 翻译而来。也欢迎你帮助推荐和提供建议
 
 
 - [Awesome Django](#awesome-django)
@@ -562,7 +563,7 @@ phone numbers.
 ## Books
 
 * [Django by Example](https://github.com/kevinlondon/django-by-example) (1.2)
-* [Djen of Django](http://agiliq.com/books/djenofdjango/) (< 1.7)
+* [Djen of Django](http://agiliq.com/books/djenofdjango/) (&lt; 1.7)
 * [Effective Django](http://www.effectivedjango.com/) (1.5)
 * [Getting started with Django](http://gettingstartedwithdjango.com/) (video)
 * [High Performance Django](https://highperformancedjango.com/) (1.7) - Deploying fast, scalable Django sites.
