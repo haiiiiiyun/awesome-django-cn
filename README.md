@@ -26,7 +26,7 @@
     - [Email](#email)
     - [Fields](#fields)
     - [File Transfers](#file-transfers)
-    - [Forms](#forms)
+    - [表单](#forms)
     - [GIS](#gis)
     - [Image handling](#image-handling)
     - [Import/Export](#importexport)
@@ -243,15 +243,15 @@ phone numbers.
 * [django-downloadview](https://github.com/benoitbryon/django-downloadview/) - Serve files with Django.
 * [django-sendfile](https://github.com/johnsensible/django-sendfile/) - This is a wrapper around web-server specific methods for sending files to web clients.
 
-## Forms
+## 表单
 
-*Packages that extend the functionality of forms or add new types of forms.*
+*扩展表单功能或添加亲的表单类型的相关包。*
 
-* [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light/) - django-autocomplete-light's purpose is to enable autocompletes quickly and properly in a django project.
-* [django-bootstrap-form](https://github.com/tzangms/django-bootstrap-form/) - Twitter Bootstrap for Django Form
-* [django-bootstrap3](https://github.com/dyve/django-bootstrap3/) - Use Bootstrap in your Django templates, the Django way.
-* [django-crispy-forms](https://github.com/maraujop/django-crispy-forms/) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
-* [django-floppyforms](https://github.com/gregmuellegger/django-floppyforms/) - django-floppyforms is an application that gives you full control of the output of forms rendering. The forms API and features are exactly the same as Django’s, the key difference is that fields and widgets are rendered in templates instead of using string interpolation, giving you full control of the output using Django templates.
+* [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light/) - django-autocomplete-light 的目标是在 Django 项目中快速而适当地实现自动填充功能。
+* [django-bootstrap-form](https://github.com/tzangms/django-bootstrap-form/) - 将 Twitter Bootstrap 使用到 Django 表单中。
+* [django-bootstrap3](https://github.com/dyve/django-bootstrap3/) - 以 Django 的方式，在 Django 模板中使用 Bootstrap。
+* [django-crispy-forms](https://github.com/maraujop/django-crispy-forms/) - 实现 DRY Django 表单的最好方式。该应用提供的 Tag 和 Filter 能让你快速将表单呈现成 div 格式，同时又提供大量的功能来配置和控制呈现的 HTML。
+* [django-floppyforms](https://github.com/gregmuellegger/django-floppyforms/) - django-floppyforms 这个应用能让你完全控制表单的呈现结果。表单 API 和功能与 Django 的完全相同，主要的不同在同它的表单项和表单组件是在模板中呈现的，而不是使用字符串处理完成，因此它能让你在使用 Django 模板中完成控制输出的结果。
 
 ## GIS
 
