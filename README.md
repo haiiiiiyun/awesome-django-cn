@@ -70,16 +70,16 @@
 
 ## 管理界面
 
-*Packages that extend the Admin interface, adding or improving features.*
+*扩展管理界面，增加或增强基功能特性的相关包。*
 
-* [djamin](https://github.com/hersonls/djamin/) - A new style for Django admin.
-* [django-admin-bootstrap](https://github.com/django-admin-bootstrap/django-admin-bootstrap) - Responsive Skin for Django Admin
-* [django-admin-bootstrapped](https://github.com/django-admin-bootstrapped/django-admin-bootstrapped/) - A Django admin theme using Twitter Bootstrap.
-* [django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators.
-* [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - The ultimate admin interface, based on a modern flat theme, it lets you customize the admin title, logo and colors by the admin itself.
-* [django-admin-tools](https://github.com/django-admin-tools/django-admin-tools) - A collection of extensions/tools for the default django administration interface
-* [django-admin2](https://github.com/pydanny/django-admin2/) - Extendable, adaptable rewrite of django.contrib.admin
-* [django-flat-theme](https://github.com/elky/django-flat-theme) - A flat theme for Django admin interface. Modern, fresh, simple.
+* [djamin](https://github.com/hersonls/djamin/) - Django 管理界面的一种新样式。
+* [django-admin-bootstrap](https://github.com/django-admin-bootstrap/django-admin-bootstrap) - Django 管理界面的自适应皮肤。
+* [django-admin-bootstrapped](https://github.com/django-admin-bootstrapped/django-admin-bootstrapped/) - 一种基于 Twitter Bootstrap 的 Django 管理界面主题。
+* [django-admin-easy](https://github.com/ebertti/django-admin-easy) - 一个关于管理界面数据项和装饰器的集合。
+* [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - 终级管理界面，它基于现代扁平式风格，能让你通过管理界面自身定制它的主题、logo 和配色。
+* [django-admin-tools](https://github.com/django-admin-tools/django-admin-tools) - 一个关于默认 Django 管理界面的扩展/工具的集合。
+* [django-admin2](https://github.com/pydanny/django-admin2/) - django.contrib.admin 的一个可扩展、能适配的版本。
+* [django-flat-theme](https://github.com/elky/django-flat-theme) - 可用于 Django 管理界面的一种扁平式主题。现代、清新、简洁。
 * [django-fluent-dashboard](https://github.com/edoburu/django-fluent-dashboard/) - An improved django-admin-tools dashboard for Django projects
 * [django-grappelli](https://github.com/sehmaschine/django-grappelli/) - A jazzy skin for the Django Admin-Interface.
 * [django-hijack](https://github.com/arteria/django-hijack/) - Allows superusers to hijack (=login as) and work on behalf of another user.
