@@ -93,13 +93,13 @@
 
 ## 分析
 
-*Packages that do web analytics or integrate web analytics services.*
+*网站分析或与集成网站分析服务相关的包。*
 
-* [django-analytical](https://github.com/jcassee/django-analytical) - Integrates analytics services with a generic interface, templates stay clean.
+* [django-analytical](https://github.com/jcassee/django-analytical) - 用一个通用接口来集成各种分析服务，无需修改模板文件。
 
 ## 资料管理
 
-*Packages that help manage the static assets of a project.*
+*有助于管理项目静态文件的包。*
 
 * [django-compressor](https://github.com/django-compressor/django-compressor/) - Compresses linked and inline javascript or CSS into a single cached file.
 * [django-gears](https://github.com/gears/django-gears/) - Compiles and concatenates JavaScript and CSS assets.
