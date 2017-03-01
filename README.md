@@ -80,16 +80,16 @@
 * [django-admin-tools](https://github.com/django-admin-tools/django-admin-tools) - 一个关于默认 Django 管理界面的扩展/工具的集合。
 * [django-admin2](https://github.com/pydanny/django-admin2/) - django.contrib.admin 的一个可扩展、能适配的版本。
 * [django-flat-theme](https://github.com/elky/django-flat-theme) - 可用于 Django 管理界面的一种扁平式主题。现代、清新、简洁。
-* [django-fluent-dashboard](https://github.com/edoburu/django-fluent-dashboard/) - An improved django-admin-tools dashboard for Django projects
-* [django-grappelli](https://github.com/sehmaschine/django-grappelli/) - A jazzy skin for the Django Admin-Interface.
-* [django-hijack](https://github.com/arteria/django-hijack/) - Allows superusers to hijack (=login as) and work on behalf of another user.
-* [django-jet](https://github.com/geex-arts/django-jet) - Mordern template admin interface with improved functionality.
-* [django-material](https://github.com/viewflow/django-material) Material design for Django Forms and Admin. Template driven.
-* [django-object-actions](https://github.com/crccheck/django-object-actions) A Django app for adding object tools for models in the admin
-* [django-suit](https://github.com/darklow/django-suit/) - Modern theme for Django admin interface.
-* [django-wpadmin](https://github.com/barszczmm/django-wpadmin/) - WordPress look and feel for Django administration panel.
-* [django-xadmin](https://github.com/sshwsfc/django-xadmin/) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap
-* [yawd-admin](https://github.com/yawd/yawd-admin/) - An administration website for Django
+* [django-fluent-dashboard](https://github.com/edoburu/django-fluent-dashboard/) - Django 项目的增强型管理面板。
+* [django-grappelli](https://github.com/sehmaschine/django-grappelli/) - 可用于 Django 管理界面的一个绚丽皮肤。
+* [django-hijack](https://github.com/arteria/django-hijack/) - 允许超级用户以其他用户微分登录和操作。
+* [django-jet](https://github.com/geex-arts/django-jet) - 可用于管理界面的现代模板，并增强了功能。
+* [django-material](https://github.com/viewflow/django-material) - Material 风格的 Django 表单和管理界面。是模板驱动的。
+* [django-object-actions](https://github.com/crccheck/django-object-actions) - 一个 Django 应用，用于在管理界面中为数据模型添加对象工具。
+* [django-suit](https://github.com/darklow/django-suit/) - 可用于 Django 管理界面的一个现代主题。
+* [django-wpadmin](https://github.com/barszczmm/django-wpadmin/) - WordPress 风格的 Django 管理界面。
+* [django-xadmin](https://github.com/sshwsfc/django-xadmin/) - 一个 Django admin 的替代器，并附带很多不错的功能特性，完全支持用插件扩展，绚丽的 UI 基于 Twitter Bootstrap。
+* [yawd-admin](https://github.com/yawd/yawd-admin/) - 用于 Django 的一个管理界面。
 
 ## 分析
 
