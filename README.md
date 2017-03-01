@@ -89,7 +89,7 @@
 * [django-suit](https://github.com/darklow/django-suit/) - 可用于 Django 管理界面的一个现代主题。
 * [django-wpadmin](https://github.com/barszczmm/django-wpadmin/) - WordPress 风格的 Django 管理界面。
 * [django-xadmin](https://github.com/sshwsfc/django-xadmin/) - 一个 Django admin 的替代器，并附带很多不错的功能特性，完全支持用插件扩展，绚丽的 UI 基于 Twitter Bootstrap。
-* [yawd-admin](https://github.com/yawd/yawd-admin/) - 用于 Django 的一个管理界面。
+* [yawd-admin](https://github.com/yawd/yawd-admin/) - 用于 Django 的一个管理界面（3 年未更新）。
 
 ## 分析
 
@@ -124,14 +124,14 @@
 
 ## 授权
 
-*Packages related to authorization infrastructure and permissions.*
+*与授权基础设施和权限相关的包。*
 
-* [django-guardian](https://github.com/django-guardian/django-guardian) - Implementation of per object permissions as authorization backend.
-* [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts!
-* [django-oauth2-provider](https://github.com/caffeinehit/django-oauth2-provider) - Provide OAuth2 access to your app
-* [django-oml](https://github.com/angvp/django-oml/) - Object Moderation Layer, mixin for models that allows you moderate several content types.
-* [django-permission](https://github.com/lambdalisue/django-permission/) An enhanced permission library which enables a *logic-based permission system* to handle complex permissions in Django
-* [django-rules](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions to Django, without requiring a database. At its core, it is a generic framework for building rule-based systems, similar to decision trees. It can also be used as a standalone library in other contexts and frameworks.
+* [django-guardian](https://github.com/django-guardian/django-guardian) - 实现对象级别的权限，来用作授权后端。
+* [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) - Django 用来集成 OAuth2 的好东西。
+* [django-oauth2-provider](https://github.com/caffeinehit/django-oauth2-provider) - 为你的应用提供 OAuth2 访问。
+* [django-oml](https://github.com/angvp/django-oml/) - Object Moderation Layer, mixin for models that allows you moderate several content types.（2 年未更新）
+* [django-permission](https://github.com/lambdalisue/django-permission/) - 一个增强的权限库，它能使用 *基于逻辑的权限系统* 来处理 Django 中的复杂权限问题。
+* [django-rules](https://github.com/dfunckt/django-rules) - 一个微型但强大的应用，为 Django 提供了对象级别的权限，它无需使用数据。其核心是一个用于构建基于规则的系统的通用框架，类似决策树。它也可以以独立库的形式使用在其它上下文和框架中。
 
 ## Blog 管理
 
