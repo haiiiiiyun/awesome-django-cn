@@ -97,17 +97,17 @@
 
 * [django-analytical](https://github.com/jcassee/django-analytical) - 用一个通用接口来集成各种分析服务，无需修改模板文件。
 
-## 资料管理
+## 资源管理
 
-*有助于管理项目静态文件的包。*
+*有助于管理项目资源文件的包。*
 
-* [django-compressor](https://github.com/django-compressor/django-compressor/) - Compresses linked and inline javascript or CSS into a single cached file.
-* [django-gears](https://github.com/gears/django-gears/) - Compiles and concatenates JavaScript and CSS assets.
-* [django-htmlmin](https://github.com/cobrateam/django-htmlmin/) - HTML minifier for Python with full support for HTML 5 and Django.
-* [django-pipeline](https://github.com/jazzband/django-pipeline) - Asset packaging for Django.
-* [django-systemjs](https://github.com/sergei-maertens/django-systemjs) - Django SystemJS brings the Javascript of tomorrow to Django, today. (JSPM intergration in Django)
-* [django-webpack-loader](https://github.com/owais/django-webpack-loader/) - Transparent webpack integration for django.
-* [python-webpack](https://github.com/markfinger/python-webpack) - Python bindings for webpack with django integration.
+* [django-compressor](https://github.com/django-compressor/django-compressor/) - 将通过链接及内联的 javascript 或 CSS 压缩成单个缓存文件。
+* [django-gears](https://github.com/gears/django-gears/) - 编译及合并 JavaScript 和 CSS 文件。
+* [django-htmlmin](https://github.com/cobrateam/django-htmlmin/) - 用于 Python 框架的 HTML 压缩工具，完全支持 HTML 5 和 Django。
+* [django-pipeline](https://github.com/jazzband/django-pipeline) - Django 的资源文件管理包。
+* [django-systemjs](https://github.com/sergei-maertens/django-systemjs) - Django SystemJS 将 Javascript 的未来版本带到当前的 Django 中。(JSPM 与 Django 集成)
+* [django-webpack-loader](https://github.com/owais/django-webpack-loader/) - webpack 无缝集成到 django。
+* [python-webpack](https://github.com/markfinger/python-webpack) - webpack 的 Python 绑定包，并与 django 集成。
 
 ## 认证
 
