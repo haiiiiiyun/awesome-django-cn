@@ -111,16 +111,16 @@
 
 ## 认证
 
-*Packages that improve or extend the authentication methods of Django.*
+*增强或扩展了 Django 认证方法的相关包。*
 
-* [django-allauth](https://github.com/pennersr/django-allauth/) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
-* [django-organizations](https://github.com/bennylope/django-organizations) - Multi-user accounts for Django projects.
-* [django-otp](https://bitbucket.org/psagers/django-otp/) - A pluggable framework for adding two-factor authentication to Django using one-time passwords.
-* [django-registration](https://github.com/macropin/django-registration/) -  Simple user-registration application for Django, designed to make allowing user signups as painless as possible.
-* [django-rest-auth](https://github.com/Tivix/django-rest-auth) -  A set of REST API endpoints to handle User Registration and Authentication tasks.
-* [django-two-factor-auth](https://github.com/Bouke/django-two-factor-auth/) - User-friendly Two-Factor authentication.
-* [django-userena](https://github.com/bread-and-pepper/django-userena/) - Accounts for Django made beautifully simple
-* [python-social-auth](https://github.com/omab/python-social-auth/) - Python Social Auth is an easy-to-setup social authentication/registration mechanism with support for several frameworks and auth providers.
+* [django-allauth](https://github.com/pennersr/django-allauth/) - 一套完整的 Django 应用，解决认证，注册，帐户管理及第三方（社交）帐户认证。
+* [django-organizations](https://github.com/bennylope/django-organizations) - Django 项目的多用户帐户功能。
+* [django-otp](https://bitbucket.org/psagers/django-otp/) - 一个可插拔框架，用于为 Django 添加使用一次性密码的双因子认证。
+* [django-registration](https://github.com/macropin/django-registration/) -  一个简单的 Django 用户注册应用，意在使用户注册过程尽可以简单。
+* [django-rest-auth](https://github.com/Tivix/django-rest-auth) -  一组 REST API，用于处理用户注册和认证任务。
+* [django-two-factor-auth](https://github.com/Bouke/django-two-factor-auth/) - 用户友好的双因子认证。
+* [django-userena](https://github.com/bread-and-pepper/django-userena/) - Django 的帐户应用，使用极其简单。
+* [python-social-auth](https://github.com/omab/python-social-auth/) - Python Social Auth 是一个很容易设置的社交认证/注册机制，它支持多个框架和认证提供商。
 
 ## 授权
 
