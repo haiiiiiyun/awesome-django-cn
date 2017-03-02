@@ -169,15 +169,15 @@
 
 ## 仪表盘
 
-*Packages that create information dashboards to visualize data.*
+*用于创建信息仪表盘以可视化数据的包。*
 
-* [django-dashing](https://github.com/talpor/django-dashing/) - a customisable, modular dashboard application framework for Django to visualize interesting data about your project. Inspired in the exceptionally handsome dashboard framework Dashing.
+* [django-dashing](https://github.com/talpor/django-dashing/) - 一个可定制，模块化的仪表盘应用框架，用以在你的 Django 项目中可视化有兴趣的数据。灵感来自那个相当优秀的仪表盘框架 Dashing。
 
 ## 数据科学
 
-*Packages that make it easier to work with large volumes of data.*
+*使得使用大数据更方便的包。*
 
-* [rest-pandas](https://github.com/wq/django-rest-pandas/) - Serves up your Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel).
+* [rest-pandas](https://github.com/wq/django-rest-pandas/) - 通过 Django REST 框架架设你的 Pandas 数据帧服务，以在客户端（如 d3.js）可视化和离线分析（如 Excel）中使用。
 
 ## 数据库
 
