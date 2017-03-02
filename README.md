@@ -162,10 +162,10 @@
 
 ## 兼容性
 
-*Packages that help to keep compatibility of reusable apps between different Django versions.*
+*有助于保存可重用性 app 在不同的 Django 版本间保存兼容性的包。*
 
-* [django-compat](https://github.com/arteria/django-compat) - For- and backwards compatibility layer for the officially  supported Django versions.
-* [django-compat-lint](https://github.com/ubernostrum/django-compat-lint) - Check Django compatibility of your code.
+* [django-compat](https://github.com/arteria/django-compat) - 为官方支持的 Django 版本提供向前和向后兼容层。
+* [django-compat-lint](https://github.com/ubernostrum/django-compat-lint) - 为你的代理检查 Django 兼容性（2 年未更新）。
 
 ## 仪表盘
 
