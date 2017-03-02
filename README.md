@@ -190,14 +190,14 @@
 
 ## 调试
 
-*Packages that help hunt down bugs.*
+*有助于查找 Bug 的包。*
 
-* [django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar/) - A configurable set of panels that display various debug information about the current request/response.
-* [django-devserver](https://github.com/dcramer/django-devserver/) - A drop in replacement for Django's built-in runserver command.
-* [django-querycount](https://github.com/bradmontgomery/django-querycount/) - Middleware that Prints the number of DB queries to the runserver console.
-* [django-silk](https://github.com/django-silk/silk) - Silky smooth profiling for Django
-* [nplusone](https://github.com/jmcarp/nplusone/) - Auto-detecting the n+1 queries problem in Django (and other ORMs)
-* [sentry](https://github.com/getsentry/sentry) - A modern error logging and aggregation platform.
+* [django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar/) - 可配置的一组面板，可显示有关当前请求/应答中的许多调试信息。
+* [django-devserver](https://github.com/dcramer/django-devserver/) - Django 内置 runserver 的简单替代者（1 年未更新）。
+* [django-querycount](https://github.com/bradmontgomery/django-querycount/) - 一个中间件，用于将数据库查询数输出来 runserver 命令行中。
+* [django-silk](https://github.com/django-silk/silk) - Django 中非常易用的剖析工具。
+* [nplusone](https://github.com/jmcarp/nplusone/) - 自动检测 Django（及其它 ORM）中的 n+1 查询问题。
+* [sentry](https://github.com/getsentry/sentry) - 一个现代的错误记录和聚合平台。
 
 ## Email
 
