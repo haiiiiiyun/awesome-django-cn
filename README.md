@@ -142,11 +142,11 @@
 
 ## 样板
 
-*Packages related to smart a new project starting.*
+*有关可快速开启一个新项目的包。*
 
-* [cookiecutter](https://github.com/audreyr/cookiecutter/) - A command-line utility that creates projects from cookiecutters (project templates).
-* [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications, containing various social authentication methods and several popular API examples.
-* [edge](https://github.com/arocks/edge) - A Django project skeleton that is modern and cutting edge.
+* [cookiecutter](https://github.com/audreyr/cookiecutter/) - 一个可根据 cookiecutters (项目模板）创建新项目的命令行工具。
+* [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - 一个 Django Web 应用的样板，包含多种社交认证方法和多个流行的 API 示例（1 年未更新）。
+* [edge](https://github.com/arocks/edge) - 一个 非常现代化非常先进的 Django 项目骨架。
 
 ## 缓存
 
