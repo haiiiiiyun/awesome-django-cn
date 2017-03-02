@@ -12,7 +12,7 @@
 - [Awesome Django](#awesome-django)
     - [管理界面](#管理界面)
     - [分析](#分析)
-    - [资料管理](#资料管理)
+    - [资源管理](#资源管理)
     - [认证](#认证)
     - [授权](#授权)
     - [Blog 管理](#blog-管理)
@@ -135,10 +135,10 @@
 
 ## Blog 管理
 
-*Packages to build and manage a blog app.*
+*用于创建和管理 blog 应用的包。*
 
-* [django-blog-zinnia](https://github.com/Fantomas42/django-blog-zinnia) -  Simple yet powerful and really extendable application for managing a blog within your Django Web site.
-* [puput](https://github.com/APSL/puput) - A Django blog app implemented in Wagtail.
+* [django-blog-zinnia](https://github.com/Fantomas42/django-blog-zinnia) -  一个简单而且强大，又非常容易扩展的应用，用于管理 Django 网站中的 blog。
+* [puput](https://github.com/APSL/puput) - 一个 用 [Wagtail](https://github.com/wagtail/wagtail) 实现的 Django blog 应用。
 
 ## 样板
 
