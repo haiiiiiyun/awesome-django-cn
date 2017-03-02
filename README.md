@@ -181,12 +181,12 @@
 
 ## 数据库
 
-*Packages that add support for 3rd party databases or database specific features.*
+*有于支持第三方数据库或添加数据库特定功能的包。*
 
-* [dj-database-url](https://github.com/kennethreitz/dj-database-url/) - Use Database URLs in your Django Application.
-* [django-mysql](https://github.com/adamchainz/django-mysql/) - Extensions to Django for use with MySQL/MariaDB.
-* [django-postgres-fuzzycount](https://github.com/stephenmcd/django-postgres-fuzzycount) - Fast / fuzzy PostgreSQL counts for Django.
-* [django-postgrespool](https://github.com/kennethreitz/django-postgrespool/) - Postgres Connection Pooling for Django, powered by SQLAlchemy.
+* [dj-database-url](https://github.com/kennethreitz/dj-database-url/) - 在你的 Django 应用中使用数据库 URL。
+* [django-mysql](https://github.com/adamchainz/django-mysql/) - 一个 Django 扩展，以使用 MySQL/MariaDB。
+* [django-postgres-fuzzycount](https://github.com/stephenmcd/django-postgres-fuzzycount) - 在 Django 中使用快速 / 模糊的 PostgreSQL count 操作。
+* [django-postgrespool](https://github.com/kennethreitz/django-postgrespool/) - 用于 Django 的 Postgres 连接池，基于 SQLAlchemy。
 
 ## 调试
 
