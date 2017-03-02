@@ -201,20 +201,20 @@
 
 ## Email
 
-*Packages that help manage email sending.*
+*有助于管理邮件发送的包。*
 
-* [django-celery-email](https://github.com/pmclanahan/django-celery-email/) - A Django email backend that uses a celery task for sending the email.
-* [django-db-mailer](https://github.com/LPgenerator/django-db-mailer/) - Django module to easily send email/sms/push/tts using django templates stored on database and managed through the Django Admin.
-* [django-drip](https://github.com/zapier/django-drip) - Django Admin based management for drip email campaigns
-* [django-email-extras](https://github.com/stephenmcd/django-email-extras) - Various email utilities: PGP encryption, multipart templates, web browser test backend.
-* [django-mailgun](https://github.com/BradWhittington/django-mailgun/) - A Django email backend for Mailgun.
-* [django-post_office](https://github.com/ui/django-post_office/) - A simple app to send and manage your emails in Django, supports templates and can be easily integrated with task queues.
-* [django-ses](https://github.com/django-ses/django-ses) - A Django email backend for Amazon's Simple Email Service.
-* [django-spoolgore](https://github.com/20tab/django-spoolgore) - A django email backed for the Spoolgore daemon.
-* [django-templated-email](https://github.com/BradWhittington/django-templated-email) - Django module to easily send templated emails using django templates, or using a transactional mail provider (mailchimp, silverpop, etc.)
-* [django-yubin](https://github.com/APSL/django-yubin) - django-mailer2 + django-mailviews with some extras.
-* [djmail](https://github.com/bameda/djmail) - A simple and nonobstructive django email middleware.
-* [djrill](https://github.com/brack3t/Djrill/) - Email backend and new message class for Mandrill transactional email service from MailChimp.
+* [django-celery-email](https://github.com/pmclanahan/django-celery-email/) - 一个 Django 邮件后端，使用 celery 任务来发送邮件。
+* [django-db-mailer](https://github.com/LPgenerator/django-db-mailer/) - 一个 Django 模块，能很容易地发送使用 Django 模板 的邮件/短信/push/tss 信息，而模板存于数据库中并通过 Django 管理后面管理。
+* [django-drip](https://github.com/zapier/django-drip) - Django Admin based management for drip email campaigns（2 年未更新）。
+* [django-email-extras](https://github.com/stephenmcd/django-email-extras) - 多种邮件工具: PGP 加密, multipart 模板, 浏览器测试后端等。
+* [django-mailgun](https://github.com/BradWhittington/django-mailgun/) - 使用 Mailgun 的 Django 邮件后端。
+* [django-post_office](https://github.com/ui/django-post_office/) - 一个用于发送和管理邮件的简单 Django 应用，支持模板，并能很容易与任务队伍集成。
+* [django-ses](https://github.com/django-ses/django-ses) - 使用 Amazon Simple Email Service 的 Django 邮件后端。
+* [django-spoolgore](https://github.com/20tab/django-spoolgore) - 使用 Spoolgore daemon 的 django 邮件后端（3 年未更新）。
+* [django-templated-email](https://github.com/BradWhittington/django-templated-email) - 一个 Django 模板，能很容易地发送模板型邮件，可以使用 django 模板，或事务型邮件提供商（如 mailchimp, silverpop 等）。
+* [django-yubin](https://github.com/APSL/django-yubin) - django-mailer2 + django-mailviews，及其它功能。
+* [djmail](https://github.com/bameda/djmail) - 一个简单且非阻塞式的 django 邮件中间件。
+* [djrill](https://github.com/brack3t/Djrill/) - 一个使用 MailChimp 的 Mandrill 事务型邮件邮件的邮件后端。
 
 ## 数据项
 
