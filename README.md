@@ -150,15 +150,15 @@
 
 ## 缓存
 
-*Packages that help with caching.*
+*有助于缓存的包。*
 
-* [django-cachalot](https://github.com/BertrandBordage/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
-* [django-cache-machine](https://github.com/django-cache-machine/django-cache-machine) - Automatic caching and invalidation for Django models through the ORM.
-* [django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
-* [django-memoize](https://github.com/tvavrys/django-memoize) - An implementation of [memoization](https://en.wikipedia.org/wiki/Memoization) technique for Django.
-* [django-ormcache](https://github.com/educreations/django-ormcache/) - A cache manager mixin that provides some caching of objects for the ORM.
-* [django-redis-cache](https://github.com/sebleier/django-redis-cache/) - A Redis cache backend for django.
-* [johnny-cache](https://github.com/jmoiron/johnny-cache/) - Johnny Cache is a caching framework for django applications.
+* [django-cachalot](https://github.com/BertrandBordage/django-cachalot) - 对你的 Django ORM 进行缓存，并能自动使它们失效。
+* [django-cache-machine](https://github.com/django-cache-machine/django-cache-machine) - 能在 ORM 中的 Django 数据模型自动进行缓存和使其失效（1 年未更新）。
+* [django-cacheops](https://github.com/Suor/django-cacheops) - 一个精巧的 ORM 缓存，具有自动化细粒度事件驱动型的失效机制。
+* [django-memoize](https://github.com/tvavrys/django-memoize) - Django 中 [记忆(memoization)](https://en.wikipedia.org/wiki/Memoization) 技术的一种实现。
+* [django-ormcache](https://github.com/educreations/django-ormcache/) - 一个缓存管理器 mixin，提供了一些 ORM 对象的缓存功能。
+* [django-redis-cache](https://github.com/sebleier/django-redis-cache/) - 用于 Django 的 Redis 缓存后端。
+* [johnny-cache](https://github.com/jmoiron/johnny-cache/) - Johnny Cache 是一个用于 Django 应用的缓存框架。
 
 ## 兼容性
 
