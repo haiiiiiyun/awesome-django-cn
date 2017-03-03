@@ -255,12 +255,12 @@ phone numbers.
 
 ## GIS
 
-*Packages that make it easier to work with geographical information system projects.*
+*能更容易与地理信息系统项目协作的包。*
 
-* [django-geoposition](https://github.com/philippbosch/django-geoposition/) - A model field that can hold a geoposition (latitude/longitude), and corresponding admin/form widget.
-* [django-location-field](https://github.com/caioariede/django-location-field/) - Location field and widget integrated with Google Maps.
-* [django-spillway](https://github.com/bkg/django-spillway/) -  Geodata extensions for Django REST Framework.
-* [djangorestframework-gis](https://github.com/djangonauts/django-rest-framework-gis/) - Geographic add-ons for Django Rest Framework.
+* [django-geoposition](https://github.com/philippbosch/django-geoposition/) - 一个数据模型项，可用来保存地理信息(经度/纬度)，并提供相应的后台管理/表单组件。
+* [django-location-field](https://github.com/caioariede/django-location-field/) - 一个位置项及其组件，并与 google 地图集成。
+* [django-spillway](https://github.com/bkg/django-spillway/) -  Django REST 框架的 Geodata 扩展。
+* [djangorestframework-gis](https://github.com/djangonauts/django-rest-framework-gis/) - Django REST 框架的地理信息扩展。
 
 ## 图片处理
 
