@@ -271,13 +271,13 @@ phone numbers.
 
 ## 导入/导出
 
-*Packages that load, import or export data from a project.*
+*能在项目中加载、导入或导出数据的包。*
 
 ## 数据迁移
 
-*Packages that help migrate the database when there are schema updates.*
+*当有模式更新后，能用来进行数据库迁移的包。*
 
-* [South](https://bitbucket.org/andrewgodwin/south/src/) - Django application to provide schema and data migrations that supports Django up to 1.6.x. ([Django 1.7 and up have an integrated migration system, based on but not compatible with South](https://docs.djangoproject.com/en/dev/topics/migrations/))
+* [South](https://bitbucket.org/andrewgodwin/south/src/) - 一个提供了模式和数据迁移功能的 Django 应用，支持至 Django 1.6.x。([Django 1.7 及以上版本已经集成了一个数据迁移系统，其基于 South 但不兼容](https://docs.djangoproject.com/en/dev/topics/migrations/))
 
 ## 移动端支持
 
