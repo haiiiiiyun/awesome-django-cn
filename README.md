@@ -35,7 +35,7 @@
     - [数据模型扩展](#数据模型扩展)
     - [支持处理](#支持处理)
     - [项目管理](#项目管理)
-    - [报告](#报告)
+    - [报表](#报表)
     - [RESTful API](#restful-api)
     - [SEO](#seo)
     - [搜索](#搜索)
@@ -313,7 +313,7 @@ phone numbers.
 
 * [django-timepiece](https://github.com/caktus/django-timepiece/) - 一个多用户的 Django 应用，用于跟踪用户在项目上的时间（1 年未更新）。
 
-## 报告
+## 报表
 *创建报表相关的包。*
 
 * [django-model-report](https://github.com/juanpex/django-model-report/) - 一个集成了 highcharts 的 Django 报表应用。
@@ -321,9 +321,9 @@ phone numbers.
 
 ## RESTful API
 
-*Packages for developing RESTful APIs.*
+*开发 REST API 的包。*
 
-* [django-nap](https://github.com/funkybob/django-nap/) - A minimalist approach to object serialization, RESTful views, and RPC views.
+* [django-nap](https://github.com/funkybob/django-nap/) - 实现对象序列化，RESTful 视图和 RPC 视图的一种极简方式。
 * [django-rest-auth](https://github.com/Tivix/django-rest-auth/) - This app makes it extremely easy to build Django powered SPA's (Single Page App) or Mobile apps exposing all registration and authentication related functionality as CBV's (Class Base View) and REST (JSON).
 * [django-rest-framework](http://www.django-rest-framework.org/) - A powerful and flexible toolkit that makes it easy to build Web APIs.
 * [django-rest-localflavor](https://github.com/gilsondev/django-rest-localflavor/) - Localized flavors of some serializers to use with Django Rest Framework.
