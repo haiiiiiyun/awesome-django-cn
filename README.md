@@ -298,16 +298,16 @@ phone numbers.
 
 ## 支付处理
 
-*Packages that provide payment processing provider integration.*
+*与支付处理提供商集成有关的包。*
 
-* [dj-stripe](https://github.com/pydanny/dj-stripe/) - Django + Stripe Made Easy.
-* [django-merchant](https://github.com/agiliq/merchant/) - A Django app that provides helpers for multiple pluggable payment backends.
-* [django-oscar-adyen](https://github.com/oscaro/django-oscar-adyen/) - This package provides integration with the Adyen payment gateway. It is designed to work seamlessly with the e-commerce framework django-oscar but can be used without Oscar.
-* [django-oscar-paymentexpress](https://github.com/django-oscar/django-oscar-paymentexpress/) - This package provides integration with the payment gateway, PaymentExpress using their PX POST API. It is designed to work seamlessly with the e-commerce framework django-oscar but can be used without it.
-* [django-oscar-paypal](https://github.com/django-oscar/django-oscar-paypal/) - PayPal integration for django-oscar. Can be used without Oscar too.
-* [django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro.
-* [django-pinpayments](https://github.com/rossp/django-pinpayments/) - Django library to simplify payment processing with pin.
-* [django-zebra](https://github.com/GoodCloud/django-zebra/) - Forms, widgets, template tags and examples that make Stripe + Django easier.
+* [dj-stripe](https://github.com/pydanny/dj-stripe/) - 使得 Django + Stripe 更容易。
+* [django-merchant](https://github.com/agiliq/merchant/) - 一个 Django 应用，为多个可插拔支付后端提供了辅助工具（2 年未更新）。
+* [django-oscar-adyen](https://github.com/oscaro/django-oscar-adyen/) - 这个包提供了与 Adyen 支付网关的集成功能。它意在与电子商务框架 django-oscar 进行无缝对接，但也可以独立于 Oscar 使用。
+* [django-oscar-paymentexpress](https://github.com/django-oscar/django-oscar-paymentexpress/) - 这个包提供了与 PaymentExpress 支付网关（使用它们的 PX POST API）的集成功能。它意在与电子商务框架 django-oscar 进行无缝对接，但也可以独立于 Oscar 使用（5 年未更新）。
+* [django-oscar-paypal](https://github.com/django-oscar/django-oscar-paypal/) - PayPal 集成进 django-oscar。也可以独立于 Oscar 使用。
+* [django-paypal](https://github.com/spookylukey/django-paypal) - 一个可插拔的 Django 应用，进于集成 PayPal 标准支持和高级支付功能。
+* [django-pinpayments](https://github.com/rossp/django-pinpayments/) - 可简化使用 Pin 的支付过程的 Django 库（1 年未更新）。
+* [django-zebra](https://github.com/GoodCloud/django-zebra/) - 表单，组件，模板标签及模板，以使 Stripe + Django 更容易。
 
 ## 项目管理
 
