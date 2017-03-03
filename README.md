@@ -281,14 +281,14 @@ phone numbers.
 
 ## 移动端支持
 
-*Packages that help you support for mobile iOS, Android and Others.*
+*用于支持 iOS, Android 及其它移动端的包。*
 
-* [django-push-notifications](https://github.com/jleclanche/django-push-notifications) - A minimal Django app that implements Device models that can send messages through APNS and GCM.
-* [django-pushy](https://github.com/rakanalh/django-pushy) - Django app that provides push notifications functionality with celery. The main purpose of this app is to help you send push notifications to your users at scale. If you have lots of registered device keys, django-pushy will split your keys into smaller groups which run in parallel making the process of sending notifications faster.
+* [django-push-notifications](https://github.com/jleclanche/django-push-notifications) - 一个微型 Django 应用，它实现了 Device 数据模型，可通过 APNS 和 GCM 发送消息。
+* [django-pushy](https://github.com/rakanalh/django-pushy) - 一个 Django 应用，使用 celery 来提供推送功能。该应用的主要目的是帮助你批量向你的用户发送推送消息。如果你有多个已注册的设备码(registered device keys)，django-pushy 会将设备码分成小组，从而加快消息的发送过程。
 
 ## 数据模型扩展
 
-*Packages that extend the functionality of models or add new classes of models.*
+*能扩展数据模型功能或添加新数据模型类的包。*
 
 * [django-aggregate-if](https://github.com/henriquebastos/django-aggregate-if/) - Conditional aggregates for Django queries, just like the famous SumIf and CountIf in Excel.
 * [django-localflavor](https://github.com/django/django-localflavor/) - Country-specific Django helpers, formerly of contrib fame.
