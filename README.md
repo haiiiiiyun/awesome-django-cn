@@ -264,10 +264,10 @@ phone numbers.
 
 ## 图片处理
 
-*Packages that help to manipulate, alter, or convert images.*
+*用于处理，修改或转换图片的包。*
 
-* [django-image-cropping](https://github.com/jonasundderwolf/django-image-cropping) - helper application to easily and non-destructively crop arbitrarily large images in admin and frontend.
-* [django-versatileimagefield](https://github.com/WGBH/django-versatileimagefield/) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
+* [django-image-cropping](https://github.com/jonasundderwolf/django-image-cropping) - 一个协助应用，能很容易地为后台或前端非破坏性的剪切任意大图片。
+* [django-versatileimagefield](https://github.com/WGBH/django-versatileimagefield/) - django ImageField 的简单替代品，并提供了一个灵活、直观、易扩展的接口来快速地根据指定的图像创建一个表单项。
 
 ## 导入/导出
 
