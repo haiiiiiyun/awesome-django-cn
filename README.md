@@ -307,17 +307,17 @@ phone numbers.
 * [django-oscar-paypal](https://github.com/django-oscar/django-oscar-paypal/) - PayPal 集成进 django-oscar。也可以独立于 Oscar 使用。
 * [django-paypal](https://github.com/spookylukey/django-paypal) - 一个可插拔的 Django 应用，进于集成 PayPal 标准支持和高级支付功能。
 * [django-pinpayments](https://github.com/rossp/django-pinpayments/) - 可简化使用 Pin 的支付过程的 Django 库（1 年未更新）。
-* [django-zebra](https://github.com/GoodCloud/django-zebra/) - 表单，组件，模板标签及模板，以使 Stripe + Django 更容易。
+* [django-zebra](https://github.com/GoodCloud/django-zebra/) - 表单，组件，模板标签及模板，以使 Stripe + Django 更容易(3 年未更新）。
 
 ## 项目管理
 
-* [django-timepiece](https://github.com/caktus/django-timepiece/) - A multi-user Django application for tracking people's time on projects.
+* [django-timepiece](https://github.com/caktus/django-timepiece/) - 一个多用户的 Django 应用，用于跟踪用户在项目上的时间（1 年未更新）。
 
 ## 报告
-*Packages for creating reports*
+*创建报表相关的包。*
 
-* [django-model-report](https://github.com/juanpex/django-model-report/) - Django reports integrated with highcharts. 
-* [django-report-builder](https://github.com/burke-software/django-report-builder/) - A GUI for Django ORM. Build custom queries and display results. Targets sys admins and capable end users who might not be able to program.
+* [django-model-report](https://github.com/juanpex/django-model-report/) - 一个集成了 highcharts 的 Django 报表应用。
+* [django-report-builder](https://github.com/burke-software/django-report-builder/) - Django ORM 的一个用户界面。能构建自定义的查询并显示结果。目标用户是系统管理员及不会编程的终端用户。
 
 ## RESTful API
 
