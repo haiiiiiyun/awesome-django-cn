@@ -218,23 +218,23 @@
 
 ## 数据项
 
-*Packages that extend the functionality of existing field type or add new field types.*
+*与扩展现有项类型功能或添加新项类型有关的包。*
 
-* [django-audiofield](https://github.com/areski/django-audiofield) -  Allows audio files upload, management and conversion to different audio format (mp3, wav & ogg).
-* [django-bitfield](https://github.com/disqus/django-bitfield/) - A BitField extension for Django models.
-* [django-countries](https://github.com/SmileyChris/django-countries/) - Provides country choices for forms, flag icons, and a CountryField.
-* [django-enumfield](https://github.com/5monkeys/django-enumfield/) - Custom Django field for using enumerations of named constants.
-* [django-image-tools](https://github.com/bonsaistudio/django-image-tools/) - A package to handle images in Django.
-* [django-imagekit](https://github.com/matthewwithanm/django-imagekit/) - Automated image processing for Django.
-* [django-jsonfield](https://pypi.python.org/pypi/django-jsonfield) - JSONField for Django models.
-* [django-location-field](https://github.com/caioariede/django-location-field/) - Location field and widget integrated with google maps.
-* [django-macaddress](https://github.com/django-macaddress/django-macaddress) - MAC Address model and form fields for Django.
-* [django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field/) - A Django library which interfaces with [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) to validate, pretty print and convert
+* [django-audiofield](https://github.com/areski/django-audiofield) -  允许对音频文件进行上传，管理，将转换成不同的音频格式 (mp3, wav & ogg)。
+* [django-bitfield](https://github.com/disqus/django-bitfield/) - Django 数据模型的一个扩展，A BitField。
+* [django-countries](https://github.com/SmileyChris/django-countries/) - 为表单提供国家选择，也基于国旗选择，还提供一个 CountryField。
+* [django-enumfield](https://github.com/5monkeys/django-enumfield/) - 基于命名常数列表的 Django 定制数据项（1 看未更新）。
+* [django-image-tools](https://github.com/bonsaistudio/django-image-tools/) - 在 Django 中处理图像的包(1 看未更新）。
+* [django-imagekit](https://github.com/matthewwithanm/django-imagekit/) - 在 Django 中自动处理图像。
+* [django-jsonfield](https://pypi.python.org/pypi/django-jsonfield) - 用于 Django 数据模型中的 JSONField。 for Django models.
+* [django-location-field](https://github.com/caioariede/django-location-field/) - 一个位置项及其组件，并与 google 地图集成。
+* [django-macaddress](https://github.com/django-macaddress/django-macaddress) - 在 Django 中使用的 MAC 地址数据模型及其表单项。
+* [django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field/) - 一个可以与 [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) 交互的 Django 库，以用来验证、格式输出和转换手机号码。
 phone numbers.
-* [django-picklefield](https://github.com/gintas/django-picklefield/) - A pickled object field for Django
-* [django-searchable-select](https://github.com/and3rson/django-searchable-select) - A better and faster multiple choice widget with suggestions.
-* [django-uuidfield](https://github.com/dcramer/django-uuidfield/) - A UUIDField for Django.
-* [django-versatileimagefield](https://github.com/WGBH/django-versatileimagefield/) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
+* [django-picklefield](https://github.com/gintas/django-picklefield/) - 用于 Django 的序列化对象项（pickled object field）。
+* [django-searchable-select](https://github.com/and3rson/django-searchable-select) - 一个更好更快的多选组件，并附有提示功能。
+* [django-uuidfield](https://github.com/dcramer/django-uuidfield/) - 用于 Django 的 UUIDField（2 年未更新）。
+* [django-versatileimagefield](https://github.com/WGBH/django-versatileimagefield/) - django ImageField 的简单替代品，并提供了一个灵活、直观、易扩展的接口来快速地根据指定的图像创建一个表单项。
 
 ## 文件传输
 
