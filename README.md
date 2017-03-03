@@ -290,11 +290,11 @@ phone numbers.
 
 *能扩展数据模型功能或添加新数据模型类的包。*
 
-* [django-aggregate-if](https://github.com/henriquebastos/django-aggregate-if/) - Conditional aggregates for Django queries, just like the famous SumIf and CountIf in Excel.
-* [django-localflavor](https://github.com/django/django-localflavor/) - Country-specific Django helpers, formerly of contrib fame.
-* [django-model-utils](https://github.com/carljm/django-model-utils/) - Django model mixins and utilities.
-* [django-mptt](https://github.com/django-mptt/django-mptt/) - Utilities for implementing a modified pre-order traversal tree in django.
-* [django-treebeard](https://github.com/tabo/django-treebeard) -Alternative tree data structures for Django (provides 3 different methods for storing hierarchical data, including MPTT )
+* [django-aggregate-if](https://github.com/henriquebastos/django-aggregate-if/) - 对 Django 查询进行条件聚合，就如 Excel 中的 SumIf 和 CountIf（2 年未更新）。
+* [django-localflavor](https://github.com/django/django-localflavor/) - 与国家信息有关的 Django 辅助包，即原先的 fame 贡献包。
+* [django-model-utils](https://github.com/carljm/django-model-utils/) - Django 数据模型的 mixins 和工具集。
+* [django-mptt](https://github.com/django-mptt/django-mptt/) - 用来在 Django 中实现一个修订版的先序遍历树的工具集。
+* [django-treebeard](https://github.com/tabo/django-treebeard) - Django 中树数据结构的另一种实现(提供了 3 种不同的层级数据排序方法，包括 MPTT )。
 
 ## 支付处理
 
