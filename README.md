@@ -238,10 +238,10 @@ phone numbers.
 
 ## 文件传输
 
-*Packages that help transfer files between projects and users.*
+*用于在项目间或用户间传输文件的包。*
 
-* [django-downloadview](https://github.com/benoitbryon/django-downloadview/) - Serve files with Django.
-* [django-sendfile](https://github.com/johnsensible/django-sendfile/) - This is a wrapper around web-server specific methods for sending files to web clients.
+* [django-downloadview](https://github.com/benoitbryon/django-downloadview/) - 用 Django 提供文件服务。
+* [django-sendfile](https://github.com/johnsensible/django-sendfile/) - 这是对特定于 Web 服务器的方法的一个封闭器，用来将文件发送给 Web 客户端。
 
 ## 表单
 
