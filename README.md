@@ -324,13 +324,13 @@ phone numbers.
 *开发 REST API 的包。*
 
 * [django-nap](https://github.com/funkybob/django-nap/) - 实现对象序列化，RESTful 视图和 RPC 视图的一种极简方式。
-* [django-rest-auth](https://github.com/Tivix/django-rest-auth/) - This app makes it extremely easy to build Django powered SPA's (Single Page App) or Mobile apps exposing all registration and authentication related functionality as CBV's (Class Base View) and REST (JSON).
-* [django-rest-framework](http://www.django-rest-framework.org/) - A powerful and flexible toolkit that makes it easy to build Web APIs.
-* [django-rest-localflavor](https://github.com/gilsondev/django-rest-localflavor/) - Localized flavors of some serializers to use with Django Rest Framework.
-* [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger/) - Swagger Documentation Generator for Django REST Framework
-* [drfdocs](https://github.com/ekonstantinidis/django-rest-framework-docs) - Document Web APIs made with Django REST Framework
-* [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps since 2010.
-* [restless](https://github.com/toastdriven/restless/) - A lightweight REST miniframework for Python
+* [django-rest-auth](https://github.com/Tivix/django-rest-auth/) - 该应用将所有与注册和验证相关的功能都以 CBV (Class Base View) 和 REST (JSON) 的形式提供，从而使用它来构建 Django SPA (Single Page App) 或移动应用是极其方便的。
+* [django-rest-framework](http://www.django-rest-framework.org/) - 一个功能强大且灵活的工具集，用它来构建 Web API 很容易。
+* [django-rest-localflavor](https://github.com/gilsondev/django-rest-localflavor/) - 用于 Django Rest 框架的一些本地化相关序列化器。
+* [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger/) - Django REST 框架的 [Swagger](http://swagger.io/) 文档生成器。
+* [drfdocs](https://github.com/ekonstantinidis/django-rest-framework-docs) - 为使用 Django REST 框架开发的 Web API 提供文档。
+* [django-tastypie](http://tastypieapi.org/) - 自 2010 年来就能为 Django 应用创建完美的 API。
+* [restless](https://github.com/toastdriven/restless/) - 一个在 Python 中使用的轻量级 REST 微框架。
 
 ## 搜索
 
