@@ -334,11 +334,11 @@ phone numbers.
 
 ## 搜索
 
-*Packages that provide search capabilities to projects.*
+*为项目提供搜索能力的包。*
 
-* [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django.
-* [django-watson](https://github.com/etianen/django-watson/) - Fast multi-model full-text search plugin.
-* [djorm-ext-pgfulltext](https://github.com/linuxlewis/djorm-ext-pgfulltext) - PostgreSQL full-text search integration with django orm.
+* [django-haystack](https://github.com/django-haystack/django-haystack) - Django 中的模块化搜索包。
+* [django-watson](https://github.com/etianen/django-watson/) - 快速的多数据模式的全文搜索插件。
+* [djorm-ext-pgfulltext](https://github.com/linuxlewis/djorm-ext-pgfulltext) - PostgreSQL 全文搜索与 django orm 整合（1 年未更新）。
 
 ## 安全性
 
