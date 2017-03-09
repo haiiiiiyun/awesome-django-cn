@@ -342,18 +342,18 @@ phone numbers.
 
 ## 安全性
 
-*Packages that improve the security of a project.*
+*用于改善项目安全性的包。*
 
-* [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot/) - A fake Django admin login screen to notify admins of attempted unauthorized access.
-* [django-axes](https://github.com/django-pci/django-axes/) - is a very simple way for you to keep track of failed login attempts, both for the Django admin and for the rest of your site.
-* [django-debreach](https://github.com/lpomfrey/django-debreach/) - BREACH mitigation for Django apps.
-* [django-password-session](https://github.com/atugushev/django-password-session/) - Invalidate all active sessions after change password ([not needed for Django 1.7+](https://docs.djangoproject.com/en/dev/topics/auth/default/#session-invalidation-on-password-change)).
-* [django-secure](https://github.com/carljm/django-secure/) - Helping you remember to do the stupid little things to improve your Django site's security.
-* [django-secure-auth](https://github.com/gotlium/django-secure-auth) - Secure authentication by TOTP, SMS, Codes & Question. Login protection with ban by IP and captcha.
-* [django-security](https://github.com/sdelements/django-security/) - A collection of models, views, middlewares, and forms to help secure a Django project.
-* [django-sslify](https://github.com/rdegges/django-sslify/) - Force SSL on your Django site.
-* [django-stronghold](https://github.com/mgrouchy/django-stronghold/) - Stronghold is middleware to default all your views to login required.
-* [django-sudo](https://github.com/mattrobenolt/django-sudo) - Sudo mode is an extra layer of security for your most sensitive pages. This is an implementation of GitHub's Sudo Mode for Django.
+* [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot/) - 一个伪装的 Django 管理后台登录界面，用来向管理员发送未授权访问尝试信息。
+* [django-axes](https://github.com/django-pci/django-axes/) - 是一种用于记录失败登录尝试的简单方法，即可用于 Django 管理后台，也可用于你的应用系统。
+* [django-debreach](https://github.com/lpomfrey/django-debreach/) - 为你的 Django 应用提供 BREACH 防御。
+* [django-password-session](https://github.com/atugushev/django-password-session/) - 当修改密码后会使所有活跃会话全部失效([Django 1.7+ 中已有此功能](https://docs.djangoproject.com/en/dev/topics/auth/default/#session-invalidation-on-password-change))（2 年未更新）。
+* [django-secure](https://github.com/carljm/django-secure/) - 提醒你通过完成一些简单地任务来提高你的 Django 网站的安全性，该项目已整合入 Django 1.8+，故不再维护（2 年未更新）。
+* [django-secure-auth](https://github.com/gotlium/django-secure-auth) - 通过 TOTP, 短信, 代码 & 答案等进行安全认证。能根据 IP 和 captcha 进行登录保护。
+* [django-security](https://github.com/sdelements/django-security/) - 一组数据模型，视图、中间件和表单，用来加固 Django 项目的安全性。
+* [django-sslify](https://github.com/rdegges/django-sslify/) - 在你的 Django 网站上强制使用 SSL。
+* [django-stronghold](https://github.com/mgrouchy/django-stronghold/) - Stronghold 是一个中间件，用来默认将你的所有视图导向 login required。
+* [django-sudo](https://github.com/mattrobenolt/django-sudo) - Sudo 模式是你的最敏感页面的一个额外安全层。这是 Django 中的 GitHub Sudo 模式的一种实现。
 
 ## SEO
 
