@@ -390,12 +390,12 @@ phone numbers.
 
 ## 任务队列
 
-*Packages that make working with task/background queues easier.*
+*能更容易使用任务/后台队队的包。*
 
-* [django-celery](http://celery.github.io/django-celery/) - Celery Integration for Django. (no longer required for Celery 3.1 and up)
-* [django-q](https://github.com/Koed00/django-q) - A native multiprocessing task queue for Django.
-* [django-rq](https://github.com/ui/django-rq) - The easiest way to monitor and use [RQ](http://python-rq.org) in your Django projects.
-* [huey](https://github.com/coleifer/huey/) - A little multi-threaded task queue for python.
+* [django-celery](http://celery.github.io/django-celery/) - Celery 与 Django 集成。(Celery 3.1+ 已不再需要该包)
+* [django-q](https://github.com/Koed00/django-q) - 一个 Django 多进程任务队列。
+* [django-rq](https://github.com/ui/django-rq) - 在你的 Django 项目监测和使用 [RQ](http://python-rq.org) 的最简单方法。
+* [huey](https://github.com/coleifer/huey/) - 一个 Python 中的小型多线程任务队列。
 
 ## 测试
 
