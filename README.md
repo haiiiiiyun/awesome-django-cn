@@ -357,11 +357,11 @@ phone numbers.
 
 ## SEO
 
-*Packages that help improve SEO ( Search Engine Optimization ) of projects.*
+*帮助改善项目 SEO ( 搜索引擎优化 ) 的包。
 
-* [django-meta](https://github.com/nephila/django-meta/) - a pluggable app to allow Django developers to quickly add meta tags and OpenGraph, Twitter, and Google Plus properties to their HTML responses.
-* [django-robots](https://github.com/jazzband/django-robots) - A Django app for managing robots.txt files following the robots exclusion protocol.
-* [django-seo2](https://github.com/romansalin/django-seo2/) - Provides a set of tools for managing Search Engine Optimisation (SEO) metadata for Django sites.
+* [django-meta](https://github.com/nephila/django-meta/) - 一个可插拔的应用，Django 开发人员可以用它来快速地将 meta 标签和 OpenGraph, Twitter, 和 Google Plus 属性添加到他们的 HTML 页面中。
+* [django-robots](https://github.com/jazzband/django-robots) - 一个用于管理 robots.txt 文件的应用，它遵循 robots 扩展协议。
+* [django-seo2](https://github.com/romansalin/django-seo2/) - 提供了一组工具来管理 Django 站点的搜索引擎优化 (SEO) 元数据。
 
 ## 设置
 
