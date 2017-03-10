@@ -375,13 +375,13 @@ phone numbers.
 
 ## 存储
 
-*Packages that extend the functionality of the existing storage backend or provide new storage backends.*
+*扩展了现有存储后端的功能或提供新存储后端的相关包。*
 
-* [django-dynamic-preferences](https://github.com/EliotBerriot/django-dynamic-preferences) - Dynamic global and instance settings for your django project.
-* [django-selectel-storage](https://github.com/marazmiki/django-selectel-storage) - This application allows you easily save media and static files into [Selectel](https://selectel.ru/) cloud storage.
-* [django-storages](https://bitbucket.org/david/django-storages/src/) - django-storages is a collection of custom storage backends for Django.
-* [django-queued-storage](https://github.com/jazzband/django-queued-storage) - Provides a proxy for Django storage backends that allows you to upload files locally and eventually serve them remotely.
-* [django-webdav-storage](https://github.com/marazmiki/django-webdav-storage) - Django storage backend that stores files in custom WebDAV storage.
+* [django-dynamic-preferences](https://github.com/EliotBerriot/django-dynamic-preferences) - 为你的 Django 项目实现动态、全局的实例设置。
+* [django-selectel-storage](https://github.com/marazmiki/django-selectel-storage) - 使用该应用能容易地将媒体或静态文件保存到 [Selectel](https://selectel.ru/) 云存储上。
+* [django-storages](https://bitbucket.org/david/django-storages/src/) - django-storages 是一个有关自定义 Django 存储后端的列表（4 年未更新）。
+* [django-queued-storage](https://github.com/jazzband/django-queued-storage) - 为 Django 存储后端提供了代理功能，从而使你能像在本地一样上传文件，但最终是保存在远程。
+* [django-webdav-storage](https://github.com/marazmiki/django-webdav-storage) - Django 存储后端，能将文件存储在自定义的 WebDAV 存储中。
 
 ## 标签
 
