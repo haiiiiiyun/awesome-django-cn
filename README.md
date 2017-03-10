@@ -365,13 +365,13 @@ phone numbers.
 
 ## 设置
 
-*Packages that help manage the configurability of projects.*
+*用来管理项目的配置的包。*
 
-* [django-configurations](https://github.com/jazzband/django-configurations) - A helper for organizing Django project settings by relying on well established programming patterns.
-* [django-constance](https://github.com/jazzband/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
-* [python-decouple](https://github.com/henriquebastos/python-decouple/) - Strict separation of config from code.
-* [django-environ](https://github.com/joke2k/django-environ) - Allows you to utilize 12factor inspired environment variables to configure your Django application.
-* [django-split-settings](https://github.com/sobolevn/django-split-settings) - Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files.
+* [django-configurations](https://github.com/jazzband/django-configurations) - 一个依据广为接受的编程模式来组织 Django 项目配置信息的辅助包。
+* [django-constance](https://github.com/jazzband/django-constance) - 一个能将动态设置信息存储在可插拔后端（内置 Redis 和 Django 数据模型后端）的 Django 应用，并已与 Django 后台管理应用整合。
+* [python-decouple](https://github.com/henriquebastos/python-decouple/) - 严格地将配置与代码分离。
+* [django-environ](https://github.com/joke2k/django-environ) - 能让你使用 12factor 的环境变量来配置你的 Django 应用。
+* [django-split-settings](https://github.com/sobolevn/django-split-settings) - 将 Django 设置信息组织到多个文件和目录中。能容易地实现对设置的覆盖和修改。能使用通配符和可选的设置文件。
 
 ## 存储
 
