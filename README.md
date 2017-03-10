@@ -385,8 +385,8 @@ phone numbers.
 
 ## 标签
 
-* [django-taggit](https://github.com/alex/django-taggit/) - Simple tagging for Django.
-* [django-taggit-helpers](https://github.com/mfcovington/django-taggit-helpers) - Django admin helper classes for django-taggit tags.
+* [django-taggit](https://github.com/alex/django-taggit/) - Django 的简单标签应用。
+* [django-taggit-helpers](https://github.com/mfcovington/django-taggit-helpers) - django-taggit 标签的 Django 后台管理辅助类（1 年未更新）。
 
 ## 任务队列
 
