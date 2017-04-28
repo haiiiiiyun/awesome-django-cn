@@ -440,10 +440,10 @@
 
 ## 视图
 
-*Packages that enhance or provide new view classes.*
+*用于增强或提供新的视图类的包。*
 
-* [django-extra-views](https://github.com/AndrewIngram/django-extra-views/) - Django's class-based generic views are awesome, let's have more of them.
-* [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views/) - Beautifully simple class-based views.
+* [django-extra-views, star:593](https://github.com/AndrewIngram/django-extra-views/) - Django 的基于类的通用视图都很赞，那就再实现一些。
+* [django-vanilla-views, star:656](https://github.com/tomchristie/django-vanilla-views/) - 一些非常简洁的基于类的视图。
 
 ## Web 前端集成
 
