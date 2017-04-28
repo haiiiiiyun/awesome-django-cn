@@ -422,12 +422,12 @@ phone numbers.
 
 ## 缩略图
 
-*Packages that help generate thumbnails.*
+*用于创建缩略图的包。*
 
-* [django-stdimage](https://github.com/codingjoe/django-stdimage/) - Thumbnails and image utils for Django.
-* [django-versatileimagefield](https://github.com/WGBH/django-versatileimagefield/) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
-* [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Easy thumbnails for Django.
-* [sorl-thumbnail](https://github.com/mariocesar/sorl-thumbnail/) - Thumbnails for Django.
+* [django-stdimage, star:125](https://github.com/codingjoe/django-stdimage/) - 用于 Django 的缩略图和图像工具。
+* [django-versatileimagefield, star:230](https://github.com/WGBH/django-versatileimagefield/) - Django ImageField 的简单替代器，它提供了一个灵活易用、易扩展的接口，能根据数据项中设置的图片快速地创建新的图片。
+* [easy-thumbnails, star:898](https://github.com/SmileyChris/easy-thumbnails) - 一个易用的 Django 缩略图应用。
+* [sorl-thumbnail, star:1050](https://github.com/mariocesar/sorl-thumbnail/) - 用于 Django 的缩略图应用。
 
 ## 翻译
 
