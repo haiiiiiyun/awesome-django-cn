@@ -447,10 +447,10 @@
 
 ## Web 前端集成
 
-* [django-angular](https://github.com/jrief/django-angular/) - Let AngularJS play well with Django.
-* [django-bower](https://github.com/nvbn/django-bower) - Easy way to use [bower](http://bower.io) with your Django project.
-* [django-js-reverse](https://github.com/ierror/django-js-reverse) - Javascript url handling for Django that doesn't hurt.
-* [djangular](https://github.com/appliedsec/djangular/) - A reusable Django app that provides better integration and tools for Angular.js.
+* [django-angular, star:1074](https://github.com/jrief/django-angular/) - 使 AngularJS 与 Django 整合。
+* [django-bower, star:491](https://github.com/nvbn/django-bower) - 使在 Django 项目中使用 [bower](http://bower.io) 更加容易。
+* [django-js-reverse, star:331](https://github.com/ierror/django-js-reverse) - 一个 Django 应用，实现 Javascript url 处理。
+* [djangular, star:214](https://github.com/appliedsec/djangular/) - 一个可复用的 Django app，为 Angular.js 提供了更好的集成及工具。（1 年未更新）
 
 ## 所见即所得编辑器
 
