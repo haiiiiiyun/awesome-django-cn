@@ -72,24 +72,24 @@
 
 *扩展管理界面，增加或增强基功能特性的相关包。*
 
-* [djamin](https://github.com/hersonls/djamin/) - Django 管理界面的一种新样式。
-* [django-admin-bootstrap](https://github.com/django-admin-bootstrap/django-admin-bootstrap) - Django 管理界面的自适应皮肤。
-* [django-admin-bootstrapped](https://github.com/django-admin-bootstrapped/django-admin-bootstrapped/) - 一种基于 Twitter Bootstrap 的 Django 管理界面主题。
-* [django-admin-easy](https://github.com/ebertti/django-admin-easy) - 一个关于管理界面数据项和装饰器的集合。
-* [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - 终级管理界面，它基于现代扁平式风格，能让你通过管理界面自身定制它的主题、logo 和配色。
-* [django-admin-tools](https://github.com/django-admin-tools/django-admin-tools) - 一个关于默认 Django 管理界面的扩展/工具的集合。
-* [django-admin2](https://github.com/pydanny/django-admin2/) - django.contrib.admin 的一个可扩展、能适配的版本。
-* [django-flat-theme](https://github.com/elky/django-flat-theme) - 可用于 Django 管理界面的一种扁平式主题。现代、清新、简洁。
-* [django-fluent-dashboard](https://github.com/edoburu/django-fluent-dashboard/) - Django 项目的增强型管理面板。
-* [django-grappelli](https://github.com/sehmaschine/django-grappelli/) - 可用于 Django 管理界面的一个绚丽皮肤。
-* [django-hijack](https://github.com/arteria/django-hijack/) - 允许超级用户以其他用户微分登录和操作。
-* [django-jet](https://github.com/geex-arts/django-jet) - 可用于管理界面的现代模板，并增强了功能。
-* [django-material](https://github.com/viewflow/django-material) - Material 风格的 Django 表单和管理界面。是模板驱动的。
-* [django-object-actions](https://github.com/crccheck/django-object-actions) - 一个 Django 应用，用于在管理界面中为数据模型添加对象工具。
-* [django-suit](https://github.com/darklow/django-suit/) - 可用于 Django 管理界面的一个现代主题。
-* [django-wpadmin](https://github.com/barszczmm/django-wpadmin/) - WordPress 风格的 Django 管理界面。
-* [django-xadmin](https://github.com/sshwsfc/django-xadmin/) - 一个 Django admin 的替代器，并附带很多不错的功能特性，完全支持用插件扩展，绚丽的 UI 基于 Twitter Bootstrap。
-* [yawd-admin](https://github.com/yawd/yawd-admin/) - 用于 Django 的一个管理界面（3 年未更新）。
+* [djamin, star:214](https://github.com/hersonls/djamin/) - Django 管理界面的一种新样式。
+* [django-admin-bootstrap, star:468](https://github.com/django-admin-bootstrap/django-admin-bootstrap) - Django 管理界面的自适应皮肤。
+* [django-admin-bootstrapped, star:1360](https://github.com/django-admin-bootstrapped/django-admin-bootstrapped/) - 一种基于 Twitter Bootstrap 的 Django 管理界面主题。
+* [django-admin-easy, star:70](https://github.com/ebertti/django-admin-easy) - 一个关于管理界面数据项和装饰器的集合。
+* [django-admin-interface, star:75](https://github.com/fabiocaccamo/django-admin-interface) - 终级管理界面，它基于现代扁平式风格，能让你通过管理界面自身定制它的主题、logo 和配色。
+* [django-admin-tools, star:221](https://github.com/django-admin-tools/django-admin-tools) - 一个关于默认 Django 管理界面的扩展/工具的集合。
+* [django-admin2, star:952](https://github.com/pydanny/django-admin2/) - django.contrib.admin 的一个可扩展、能适配的版本。
+* [django-flat-theme, star:392](https://github.com/elky/django-flat-theme) - 可用于 Django 管理界面的一种扁平式主题。现代、清新、简洁。
+* [django-fluent-dashboard, star:166](https://github.com/edoburu/django-fluent-dashboard/) - Django 项目的增强型管理面板。
+* [django-grappelli, star:2087](https://github.com/sehmaschine/django-grappelli/) - 可用于 Django 管理界面的一个绚丽皮肤。
+* [django-hijack, star:542](https://github.com/arteria/django-hijack/) - 允许超级用户以其他用户微分登录和操作。
+* [django-jet, star:791](https://github.com/geex-arts/django-jet) - 可用于管理界面的现代模板，并增强了功能。
+* [django-material, star:1037](https://github.com/viewflow/django-material) - Material 风格的 Django 表单和管理界面。是模板驱动的。
+* [django-object-actions, star:162](https://github.com/crccheck/django-object-actions) - 一个 Django 应用，用于在管理界面中为数据模型添加对象工具。
+* [django-suit, star:1226](https://github.com/darklow/django-suit/) - 可用于 Django 管理界面的一个现代主题。
+* [django-wpadmin, star:202](https://github.com/barszczmm/django-wpadmin/) - WordPress 风格的 Django 管理界面。
+* [django-xadmin, star:2016](https://github.com/sshwsfc/django-xadmin/) - 一个 Django admin 的替代器，并附带很多不错的功能特性，完全支持用插件扩展，绚丽的 UI 基于 Twitter Bootstrap。
+* [yawd-admin, star:129](https://github.com/yawd/yawd-admin/) - 用于 Django 的一个管理界面（3 年未更新）。
 
 ## 分析
 
