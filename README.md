@@ -401,24 +401,24 @@ phone numbers.
 
 *有助于测试代码或创建测试数据的包。*
 
-* [behave-django](https://github.com/behave/behave-django) - 将行为驱动开发 ([Behave BDD](https://pypi.python.org/pypi/behave)) 集成到 Django 中。
-* [django-behave](https://github.com/django-behave/django-behave/) - Behave BDD 模块的 TestRunner。
-* [django-dynamic-fixture](https://github.com/paulocheque/django-dynamic-fixture) - 可为测试目的动态地创建数据模拟实例。
-* [django-faker](https://github.com/joke2k/django-faker/) - 使用 [Fake-factory](https://github.com/joke2k/faker/) 来创建测试数据（2 年未更新）。
-* [django-jenkins](https://github.com/kmmbvnr/django-jenkins) - 在 Django 中即插即用 jenkins 进行持续集成。
-* [django-nose](https://github.com/django-nose/django-nose/) - 使用 nose 进行测试。
-* [django-selenium](https://github.com/dragoon/django-selenium/) - 支持用 Selenium 测试。
-* [django-shotgun](https://github.com/stephenmcd/django-shotgun) - 测试整个 Django 网站（3 年未更新）。
-* [django-slowtests](https://github.com/realpython/django-slow-tests) - 定位出最慢的测试。
-* [django-test-plus](https://github.com/revsys/django-test-plus) - 增强了 Django 默认的 TestCase 的功能，能极大减少样板代码。
-* [factory_boy](https://github.com/rbarrois/factory_boy/) - A test fixtures replacement for Python
-* [hitchtest](http://hitchtest.com/) - High level integration testing framework for Django.
-* [lettuce-django-terrain](https://github.com/stringfellow/lettuce-django-terrain/) - Terrain file for lettuce in django projects
-* [mixer] (https://github.com/klen/mixer) - An application to generate instances of Django or SQLAlchemy models. Fast and convenient test-data generation.
-* [mock-django] (https://github.com/dcramer/mock-django) - A simple library for mocking certain Django behavior, such as the ORM.
-* [model-mommy](https://github.com/vandersonmota/model_mommy/) - Smart fixtures for better tests.
-* [pytest-django](https://pypi.python.org/pypi/pytest-django/) - Test runner using py.test
-* [splinter](https://github.com/cobrateam/splinter/) - Test framework for web applications.
+* [behave-django, star:29](https://github.com/behave/behave-django) - 将行为驱动开发 ([Behave BDD](https://pypi.python.org/pypi/behave)) 集成到 Django 中。
+* [django-behave, star:173](https://github.com/django-behave/django-behave/) - Behave BDD 模块的 TestRunner。
+* [django-dynamic-fixture, star:252](https://github.com/paulocheque/django-dynamic-fixture) - 可为测试目的动态地创建数据模拟实例。
+* [django-faker, star:144](https://github.com/joke2k/django-faker/) - 使用 [Fake-factory](https://github.com/joke2k/faker/) 来创建测试数据（2 年未更新）。
+* [django-jenkins, star:799](https://github.com/kmmbvnr/django-jenkins) - 在 Django 中即插即用 jenkins 进行持续集成。
+* [django-nose, star:743](https://github.com/django-nose/django-nose/) - 使用 nose 进行测试。
+* [django-selenium, star:84](https://github.com/dragoon/django-selenium/) - 支持用 Selenium 测试。
+* [django-shotgun, star:8](https://github.com/stephenmcd/django-shotgun) - 测试整个 Django 网站（3 年未更新）。
+* [django-slowtests, star:106](https://github.com/realpython/django-slow-tests) - 定位出最慢的测试。
+* [django-test-plus, star:208](https://github.com/revsys/django-test-plus) - 增强了 Django 默认的 TestCase 的功能，能极大减少样板代码。
+* [factory_boy, star:1150](https://github.com/rbarrois/factory_boy/) - Python test fixtures 一个替代器。
+* [hitchtest, star:32](http://hitchtest.com/) - 与 Django 高度集成的一个测试框架。
+* [lettuce-django-terrain, star:12](https://github.com/stringfellow/lettuce-django-terrain/) - 用于 Django 项目中 [lettuce](https://github.com/gabrielfalcao/lettuce) 的 Terrain 文件（5 年未更新，但 lettuce 网站上的代码框显示很赞）。
+* [mixer, star:395](https://github.com/klen/mixer) - 一个用来产生 Django 或 SQLAlchemy 数据模型实例的应用。能快速便捷地创建测试数据。
+* [mock-django, star:191](https://github.com/dcramer/mock-django) - 一个简单的库，能为诸如 ORM 等一些 Django 行为设置模拟信息（1 年未更新）。
+* [model-mommy, star:660](https://github.com/vandersonmota/model_mommy/) - 为进行更好地测试提供了智能 fixtures。
+* [pytest-django, star:308](https://github.com/pytest-dev/pytest-django) - pytest 的一个 Django 插件。
+* [splinter, star:1355](https://github.com/cobrateam/splinter/) - Web 应用的一个 Python 测试框架。
 
 ## 缩略图
 
