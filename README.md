@@ -454,13 +454,12 @@
 
 ## 所见即所得编辑器
 
-*Packages that makes text editing awesome.*
+*方便文本翻译的包。*
 
-* [django-ckeditor](https://github.com/django-ckeditor/django-ckeditor/) - Django admin CKEditor integration.
-* [django-summernote](https://github.com/summernote/django-summernote/) - Summernote is a simple WYSIWYG editor. django-summernote allows you to embed Summernote into Django very handy. Support admin mixins and widgets.
-* [django-tinymce](https://github.com/aljosa/django-tinymce/) - TinyMCE integration for Django.
-* [django-wysiwyg](https://github.com/pydanny/django-wysiwyg/) - A Django application for making Django textareas rich text editors. Certainly as a template tag and possibly as a form widget.
-* [django-wysiwyg-redactor](https://github.com/douglasmiranda/django-wysiwyg-redactor/) - A lightweight wysiwyg editor for Django.
+* [django-ckeditor, star:820](https://github.com/django-ckeditor/django-ckeditor/) - Django 管理界面与 CKEditor 集成。
+* [django-summernote, star:325](https://github.com/summernote/django-summernote/) - Summernote 是一个简单的所见即所得编辑器。django-summernote 能将 Summernote 方便地嵌入到 Django 中。支持 mixins 和 widgets。
+* [django-tinymce, star:615](https://github.com/aljosa/django-tinymce/) - TinyMCE 与 Django 集成。
+* [django-wysiwyg, star:440](https://github.com/pydanny/django-wysiwyg/) - 一个 Django  应用，实现将 Django 文本框变成富文本编辑器。可用作模板标签，也可用于表单组件。
 
 ## Wiki 应用
 
