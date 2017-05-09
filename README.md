@@ -430,13 +430,13 @@
 
 ## 翻译
 
-*Packages help with the task of translating projects.*
+*有助于翻译工程项目的包。*
 
-* [django-hvad](https://github.com/KristianOellegaard/django-hvad) - Painless translations in django, using the regular ORM. Integrates easily into existing projects and apps. Easy convertible from django-multilingual-ng.
-* [django-klingon](https://github.com/angvp/django-klingon/) - An attempt to make django model translations suckless and with no integrations pain in your app.
-* [django-modeltranslation](https://github.com/deschler/django-modeltranslation/) - Translate dynamic content of existing Django models to an arbitrary number of languages without having to change the original model classes.
-* [django-parler](https://github.com/edoburu/django-parler) - Simple Django model translations without nasty hacks
-* [django-rosetta](https://github.com/mbi/django-rosetta/) - Rosetta is a Django application that eases the translation process of your Django projects.
+* [django-hvad, star:417](https://github.com/KristianOellegaard/django-hvad) - 可在 django 中进行轻松地翻译，使用通常的 ORM。能很容易集成到现存的项目和应用中。能从 django-multilingual-ng 很容易地转换过来。
+* [django-klingon, star:35](https://github.com/angvp/django-klingon/) - 意在能 django 数据模型的翻译更加容易（2 年未更新）。
+* [django-modeltranslation, star:483](https://github.com/deschler/django-modeltranslation/) - 将现有 Django 数据模型中的动态数据翻译成任何的语言，而无需修改原来的数据模型类。
+* [django-parler, star:236](https://github.com/edoburu/django-parler) - 简单的 Django  数据模型翻译工具，没有奇技淫巧。
+* [django-rosetta, star:608](https://github.com/mbi/django-rosetta/) - Rosetta 是一个 ango 应用，它使你的 Django 项目的翻译过程更加容易。
 
 ## 视图
 
