@@ -518,29 +518,29 @@
 
 # 项目
 
-*Outstanding Django projects.*
+*出色的 Django 项目*
 
 ## CMS
 
-* [django-cms](https://github.com/divio/django-cms/) - The easy-to-use and developer-friendly CMS.
-* [django-fiber](https://github.com/ridethepony/django-fiber) - Django Fiber, a simple, user-friendly CMS for all your Django projects
-* [feincms](https://github.com/feincms/feincms/) - A Django-based CMS with a focus on extensibility and concise code.
-* [Mezzanine](https://github.com/stephenmcd/mezzanine/) - A content management platform built using the Django framework.
-* [wagtail](https://github.com/torchbox/wagtail/) - A new Django content management system.
-* [leonardo](https://github.com/django-leonardo/django-leonardo/) - A new Django content management system built on top of FeinCMS and OpenStack Horizon.
+* [django-cms, star:4880](https://github.com/divio/django-cms/) - 易用且对开发者友好的 CMS。
+* [django-fiber, star:552](https://github.com/ridethepony/django-fiber) - Django Fiber, 一个简单易用的 CMS，可用于所有的 Django 项目中。
+* [feincms, star:697](https://github.com/feincms/feincms/) - 一个基于 Django 的 CMS，关注于扩展性和代码的简洁性。
+* [Mezzanine, star:3057](https://github.com/stephenmcd/mezzanine/) - 一个使用 Django 框架构建的内容管理平台。
+* [wagtail, star:4325](https://github.com/torchbox/wagtail/) - 一个新的 Django 内容管理系统。
+* [leonardo, star:61](https://github.com/django-leonardo/django-leonardo/) - 一个新的 Django 内容管理系统，基于 FeinCMS 和 OpenStack Horizon 构建。
 
 ## 文档管理
 
-* [mayan-edms](https://github.com/mayan-edms/mayan-edms/) - Open source, Django based DMS (document management system) with custom metadata indexing, file serving integration, OCR capabilities, document versioning and electronic signature verification.
+* [mayan-edms, star:251](https://github.com/mayan-edms/mayan-edms/) - 一个开源的，基于 Django 的 DMS (文档管理系统)，它具有自定义元数据索引、文件服务集成、OCR 功能、文档版本控制和电子签名验证等功能。
 
 ## 电子商务
 
-* [Cartridge](https://github.com/stephenmcd/cartridge) - Ecommerce for Django/Mezzanine.
-* [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.
-* [Lighting Fas Shop](http://www.getlfs.com/) - Lighting Fas Shop is Ecommerce made with Django.
-* [Saleor](http://getsaleor.com) - An e-commerce storefront for Python and Django.
-* [Satchless](http://satchless.com) - Satchless brings e-commerce and Python together.
-* [Satchmo](https://bitbucket.org/chris1610/satchmo/src/) - Satchmo is an eCommerce framework creatde in Django which allows you to develop unique and robust online stores.
+* [Cartridge, star:523](https://github.com/stephenmcd/cartridge) - Django/Mezzanine 的电子商务应用。
+* [django-oscar, star:2495](https://github.com/django-oscar/django-oscar) - Django 中基于领域驱动的电子商务框架。
+* [Lighting Fas Shop](http://www.getlfs.com/) - Lighting Fas Shop 是一个用 Django 构建的电子商务解决方案。
+* [Saleor](http://getsaleor.com) - 在 Python 和 Django 中使用的电子商务店铺。
+* [Satchless](http://satchless.com) - Satchless 将电子商务和 Python 结合了起来。
+* [Satchmo](https://bitbucket.org/chris1610/satchmo/src/) - Satchmo 是一个用 Django 构建的电子商务框架，它能使你开发独一无二且健壮的在线商店。
 
 ## 其它
 
