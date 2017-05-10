@@ -463,20 +463,20 @@
 
 ## Wiki 应用
 
-* [django-wiki](https://github.com/django-wiki/django-wiki) A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
-* [waliki](https://github.com/mgaitan/waliki) An extensible wiki app for Django with a Git backend.
+* [django-wiki, star:727](https://github.com/django-wiki/django-wiki) - 一个 wiki 系统，功能复杂，集成容易，界面优秀。能将你的知识配以样式进行存储：使用 django 数据模型。
+* [waliki, star:254](https://github.com/mgaitan/waliki) - 一个可扩展的 Django wiki 应用，使用 Git 后端。
 
 ## 工作流
 
-*Packages that do process, procedure and/or business tasks management.*
+*用于过程或业务任务管理的包。*
 
-* [django-flows](https://github.com/carlio/django-flows/) - django-flows keeps state and position in complicated flows of logic, allowing optional branches and complicated paths through a series of individual user actions.
-* [django-fsm](https://github.com/kmmbvnr/django-fsm/) - Django friendly finite state machine support.
-* [django-river](https://github.com/javrasya/django-river/) - Django state machine and workflow library provides on the fly changes.
-* [django-states](https://github.com/vikingco/django-states2/) - State machine for django models.
-* [django-viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django.
-* [django-workflows](https://bitbucket.org/jerzyk/django-workflows/) - django-workflows provides a generic workflow engine for Django.
-* [django-xworkflows](https://github.com/rbarrois/django_xworkflows/) - Library to plug xworkflows into django models.
+* [django-flows, star:87](https://github.com/carlio/django-flows/) - django-flows 能保存逻辑复杂流中的状态和位置，允许基于每个用户的一系列动作进行可能的分支和复杂路径分离。（1 年未更新）
+* [django-fsm, star:831](https://github.com/kmmbvnr/django-fsm/) - Django 对有限状态机的友好支持。
+* [django-river, star:303](https://github.com/javrasya/django-river/) - Django 状态机和工作流库，提供即时修改功能。
+* [django-states, star:113](https://github.com/vikingco/django-states2/) - django 数据模型的状态机。
+* [django-viewflow, star:631](https://github.com/viewflow/viewflow) - Django 中的可复用工作流库。
+* [django-workflows, bitbucket forks:1](https://bitbucket.org/jerzyk/django-workflows/) - django-workflows 为 Django 提供了一个通用的工作流引擎。
+* [django-xworkflows, star:73](https://github.com/rbarrois/django_xworkflows/) - 一个将 xworkflows 整合到 django 数据模型中的库。
 
 ## 其它
 
