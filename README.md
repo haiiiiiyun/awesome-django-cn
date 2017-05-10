@@ -480,41 +480,41 @@
 
 ## 其它
 
-* [django-activeurl](https://github.com/hellysmile/django-activeurl) - Easy to use active URL highlighting for django
-* [django-activity-stream](https://github.com/justquick/django-activity-stream/) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
-* [django-adminactions](https://github.com/saxix/django-adminactions/) - Collection of useful actions to use with django.contrib.admin.ModelAdmin and/or django.contrib.admin.AdminSite
-* [django-autoadmin](https://github.com/rosarior/django-autoadmin/) - Automatic admin users for Django projects.
-* [django-braces](https://github.com/brack3t/django-braces/) - Reusable, generic mixins for Django.
-* [django-calendarium](https://github.com/bitmazk/django-calendarium/) - A reusable app to manage and display a calendar in your templates.
-* [django-changuito](https://github.com/angvp/django-changuito/) - A cart app for your django site, an updated fork of django-cart
-* [django-cors-headers](https://github.com/ottoyiu/django-cors-headers) - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS).
-* [django-dfp](https://github.com/praekelt/django-dfp) - App that provides tags to fetch Google DFP ads.
-* [django-dynamic-scraper](https://github.com/holgerd77/django-dynamic-scraper/) - Creating Scrapy scrapers via the Django admin interface.
-* [django-extensions](https://github.com/django-extensions/django-extensions/) - This is a repository for collecting global custom management extensions for the Django Framework.
-* [django-filter](https://github.com/alex/django-filter/) - A generic system for filtering Django QuerySets based on user selections.
-* [django-friendship](https://github.com/revsys/django-friendship/) - Django app to manage following and bi-directional friendships.
-* [django-gravatar2](https://github.com/twaddington/django-gravatar/) - Essential Gravatar support for Django. Features helper methods, templatetags and a full test suite!
-* [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications, containing various social authentication methods and several popular API examples.
-* [django-ipware](https://github.com/un33k/django-ipware) - A Django application to retrieve user's IP address.
-* [django-magic-embed](https://github.com/kronoscode/django-magicembed) - an easy and simple Django template tag and tool to embed video and get thumbnails from video providers.
-* [django-markitup](https://github.com/zsiciarz/django-markitup) - A Django reusable application for end-to-end markup handling.
-* [django-mmc](https://github.com/LPgenerator/django-mmc) - App for monitoring management commands on Django..
-* [django-overextends](https://github.com/stephenmcd/django-overextends) - Circular template inheritance for Django.
-* [django-pagination](https://github.com/ericflo/django-pagination) - https://github.com/ericflo/django-pagination.
-* [django-el-pagination](https://github.com/shtalinberg/django-el-pagination) - Django EL(Endless) Pagination can be used to provide Twitter-style or Digg-style pagination, with optional Ajax support.
-* [django-quiz-app](https://github.com/tomwalker/django_quiz/) - This is a configurable quiz app for Django.
-* [django-recaptcha](https://github.com/praekelt/django-recaptcha/) - Django reCAPTCHA form field/widget integration app.
-* [django-smuggler](https://github.com/semente/django-smuggler/) - Django Smuggler is a pluggable application for Django Web Framework that helps you to import/export fixtures via the automatically-generated administration interface.
-* [django-solo](https://github.com/lazybird/django-solo/) - Helps working with singletons - things like global settings that you want to edit from the admin site.
-* [django-sql-explorer](https://github.com/epantry/django-sql-explorer/) - Easily share data via SQL queries, right from Django
-* [django-stored-messages](https://github.com/evonove/django-stored-messages/) - Store Django messages on your project's backend.
-* [django-ratelimit](https://github.com/jsocol/django-ratelimit/) - provides a decorator to rate-limit views. Limiting can be based on IP address or a field in the request--either a GET or POST variable.
-* [django-uuslug](https://github.com/un33k/django-uuslug/) - a slugify application that guarantees Uniqueness and handles Unicode.
-* [django-watchman](https://github.com/mwarkentin/django-watchman/) - django-watchman exposes a status endpoint for your backing services like databases, caches, etc.
-* [django-websocket-redis](https://github.com/jrief/django-websocket-redis) - Websockets for Django applications using Redis as message queue.
-* [metamon](http://tryolabs.github.io/metamon/) - Collection of Ansible playbooks to quickly start your Django Application
-* [micawber](https://github.com/coleifer/micawber/) - A small library for extracting rich content from urls.
-* [towel](https://github.com/matthiask/towel/) - a collection of tools which make your life easier if you are building a web application using Django.
+* [django-activeurl, star:94](https://github.com/hellysmile/django-activeurl) - 使在 django 更容易使用活跃 URL 高亮。（2 年未更新）
+* [django-activity-stream, star:1181](https://github.com/justquick/django-activity-stream/) - 基于站点上的行为创建通用的活动流。用户可关注任何行为者的个人活动流。
+* [django-adminactions, star:169](https://github.com/saxix/django-adminactions/) - 一组非常有用的行为集，可用于 django.contrib.admin.ModelAdmin 和  django.contrib.admin.AdminSite。
+* [django-autoadmin, star:28](https://github.com/rosarior/django-autoadmin/) - 为 Django 项目自动创建管理员用户。（2 年未更新）
+* [django-braces, star:1220](https://github.com/brack3t/django-braces/) - 可复用的，通用的 Django  mixins。
+* [django-calendarium, star:167](https://github.com/bitmazk/django-calendarium/) - 一个可复用的应用，用于在模板中管理和显示日历。
+* [django-changuito, star:46](https://github.com/angvp/django-changuito/) - django 网站的购物篮应用，django-cart 的分支版本。
+* [django-cors-headers, star:1435](https://github.com/ottoyiu/django-cors-headers) - 一个用于处理跨源资源共享(CORS) 所需的服务器头的 Django 应用。
+* [django-dfp, star:4](https://github.com/praekelt/django-dfp) - 一个应用，提供了用于获取 Google DFP 广告的标签。（2 年未更新）
+* [django-dynamic-scraper, star:552](https://github.com/holgerd77/django-dynamic-scraper/) - 能通过 Django 管理界面创建 Scrapy 抓取器。
+* [django-extensions, star:3111](https://github.com/django-extensions/django-extensions/) - 该仓库收集了有关 Django 框架的全局自定义管理扩展功能。
+* [django-filter, star:1743](https://github.com/alex/django-filter/) - 一个通用的系统，能基于用户选择过滤 Django QuerySets。
+* [django-friendship, star:291](https://github.com/revsys/django-friendship/) - 用于管理从属或双向关系的 Django 应用。
+* [django-gravatar2, star:93](https://github.com/twaddington/django-gravatar/) - 主要实现在 Django 中支持 Gravatar。功能有辅助函数，模板标签和完整的测试。
+* [django-hackathon-starter, star:1005](https://github.com/DrkSephy/django-hackathon-starter) - Django Web 应用的样板，包含各种社交认证方法和许多流行 API 的例子。（1 年未更新）
+* [django-ipware, star:323](https://github.com/un33k/django-ipware) - 一个用于获取用户 IP 地址的 Django 应用。
+* [django-magic-embed, star:18](https://github.com/kronoscode/django-magicembed) - 一个简单易用的 Django 模板标签和工具，用于嵌入视频，并从视频提供者处获取缩略图。（2 年未更新）
+* [django-markitup, star:41](https://github.com/zsiciarz/django-markitup) - 一个可复用的 Django 应用，用于端到端的标签处理。
+* [django-mmc, star:30](https://github.com/LPgenerator/django-mmc) - 一个用于监测 Django 中的管理命令的应用。
+* [django-overextends, star:90](https://github.com/stephenmcd/django-overextends) - Django 中的环型模板继承。
+* [django-pagination, star:505](https://github.com/ericflo/django-pagination) - https://github.com/ericflo/django-pagination。（3 年未更新)
+* [django-el-pagination, star:113](https://github.com/shtalinberg/django-el-pagination) - Django EL(Endless) Pagination 可用于提供 Twitter 风格或 Digg 风格的分页，可支持 Ajax。
+* [django-quiz-app, star:196](https://github.com/tomwalker/django_quiz/) - 这是一个可配置的 Django 调查问答应用。
+* [django-recaptcha, star:391](https://github.com/praekelt/django-recaptcha/) - Django reCAPTCHA 表单项/组件集成应用。
+* [django-smuggler, star:228](https://github.com/semente/django-smuggler/) - Django Smuggler 是 Django Web 框架中的一个可插拔应用，可用于在自动生成的管理界面中导入/导出 fixtures。
+* [django-solo, star:273](https://github.com/lazybird/django-solo/) - 有助于使用单例 -- 全局设置等那些你想在管理站点上进行编辑的事物。
+* [django-sql-explorer, star:1251](https://github.com/epantry/django-sql-explorer/) - 能通过 SQL 查询进行数据共享更加容易。
+* [django-stored-messages, star:71](https://github.com/evonove/django-stored-messages/) - 将 Django 消息保存到你的项目后端。（1 年未更新）
+* [django-ratelimit, star:336](https://github.com/jsocol/django-ratelimit/) - 为限速率视图提供了一个装饰器。可基于 IP 地址或请求中的某项（GET 或 POST 中的变量）进行限制。
+* [django-uuslug, star:187](https://github.com/un33k/django-uuslug/) - 一个 slugify 应用，能保证唯一性，且能处理 Unicode。
+* [django-watchman, star:145](https://github.com/mwarkentin/django-watchman/) - django-watchman 为你的数据库，缓存等后端服务提供状态端点。
+* [django-websocket-redis, star:611](https://github.com/jrief/django-websocket-redis) - 为 Django 应用实现的 Websockets，使用 Redis 作为消息队列。
+* [metamon, star:348](http://tryolabs.github.io/metamon/) - 一组 Ansible playbooks 集合，可用于快速创建 Django 应用。
+* [micawber, star:338](https://github.com/coleifer/micawber/) - 一个用于从 URL 抽取内容的小型库。
+* [towel, star:68](https://github.com/matthiask/towel/) - 一个工具集，能极大地方便你的 Django 开发。
 
 # 项目
 
