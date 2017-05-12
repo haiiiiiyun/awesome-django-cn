@@ -610,7 +610,7 @@
 *那些方便 Django 使用的非 Django 项目。*
 
 * [Django-manage.py-anywhere, star:14](https://github.com/timonweb/Django-manage.py-anywhere/) - 可从任意地方运行 manage.py。找到距离最近的 manage.py 文件，并基于该文件运行命令。
-* [Logan, star:192](https://github.com/dcramer/logan) - 一个用于单独运行 Django 应用的工具集。它提供了用于创建一个 CLI 运行器，管理配置信息，及启动启动的工具。
+* [Logan, star:192](https://github.com/dcramer/logan) - 一个用于单独运行 Django 应用的工具集。它提供了用于创建一个 CLI 运行器，管理配置信息，及启动程序的工具（2 年前更新）。
 
 # 贡献
 
