@@ -544,15 +544,15 @@
 
 ## 其它
 
-* [Django packages](https://github.com/pydanny/djangopackages/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
-* [django-salted](https://github.com/wunki/django-salted/) - Full stack SaltStack configuration for Django with the help of Vagrant.
-* [Drum](https://github.com/stephenmcd/drum) - Reddit / Hacker News clone for Django/Mezzanine.
-* [koalixcrm](https://github.com/tfroehlich82/koalixcrm) - Beautiful CRM/ERP for small business.
+* [Django packages, star:248](https://github.com/pydanny/djangopackages/) - Django Packages 是一个 Django 的可复用应用，站点，工具等的目录。
+* [django-salted, star:329](https://github.com/wunki/django-salted/) - 使用 Vagrant 的 Django 项目全栈 SaltStack 配置。（4 年前更新）
+* [Drum, star:319](https://github.com/stephenmcd/drum) - Reddit / Hacker News 的克隆版，使用 Django/Mezzanine。
+* [koalixcrm, star:60](https://github.com/tfroehlich82/koalixcrm) - 适用于小业务的完美的 CRM/ERP。
 
 ## 项目管理
 
-* [ITSY](https://github.com/orges/itsy/) - Issue Tracking System
-* [taiga](https://github.com/taigaio/taiga-back) - Agile, Free and Open Source Project Management Tool
+* [ITSY, star:74](https://github.com/orges/itsy/) - 问题跟踪系统。（3 年前更新）
+* [taiga, star:3467](https://github.com/taigaio/taiga-back) - 敏捷，免费而且开源的项目管理工具，基于 Django 和 Angular。
 
 # 资源
 
