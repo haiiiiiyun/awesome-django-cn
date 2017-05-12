@@ -589,28 +589,28 @@
 
 # 非 Python 包
 
-* [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - A cookiecutter template for creating Django projects quickly.
+* [cookiecutter-django, star:2559](https://github.com/pydanny/cookiecutter-django) - 一个 cookiecutter 模板，用于快速创建 Django 项目。
 
 ## 外部文档
 
-*Additional sources of information about django features.*
+*关于 Django 特性的其它信息源。*
 
-* [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions, with full methods and attributes, for each of Django's class-based generic views.
-* [Classy Django REST Framework](http://www.cdrf.co/) - Detailed descriptions, with full methods and attributes, for each of Django REST Framework's class-based views and serializers.
+* [Classy Class-Based Views](http://ccbv.co.uk/) - 对每个 Django 中基于类的通用视图的全部方法和属性进行了详细的描述。
+* [Classy Django REST Framework](http://www.cdrf.co/) - 对 Django REST 框架中每个基于类的视图和序列化器的全部方法和属性进行了详细的描述。
 
 ## 视频
 
-* [CodingforEntrepreneur](https://www.codingforentrepreneurs.com/projects/) - One of the best collection of Django Videos and all the projects are written in Django.
-* [GoDjango](https://godjango.com) - Django videos from basics to advanced. Covering 3rd party apps to core Django compontents.
-* [Must Watch Django Videos](https://github.com/rosarior/django-must-watch/) - Must-watch videos about Django (or about Python as applied to Django)
-* [One Month Django](https://onemonth.com) - The video series will teach you Django in one month
+* [CodingforEntrepreneur](https://www.codingforentrepreneurs.com/projects/) - 一组关于 Django 及所有基于 Django 的项目的最佳视频集。
+* [GoDjango](https://godjango.com) - 包含了从初级到高级的 Django 视频。囊括了从第 3 方应用到 Django 核心组件的内容。
+* [Must Watch Django Videos](https://github.com/rosarior/django-must-watch/) - 关于 Django 和 Python 的必看视频。
+* [One Month Django](https://onemonth.com) - 这组视频集将在一个月内教会你 Django。
 
 # 工具
 
-*Non Django projects that make it easier to work with Django.*
+*那些方便 Django 使用的非 Django 项目。*
 
-* [Django-manage.py-anywhere](https://github.com/timonweb/Django-manage.py-anywhere/) - Run manage.py commands from anywhere. Finds closest to current path manage.py file and runs commands against it.
-* [Logan](https://github.com/dcramer/logan) - A toolkit for running standalone Django applications. It provides you with tools to create a CLI runner, manage settings, and the ability to bootstrap the process.
+* [Django-manage.py-anywhere, star:14](https://github.com/timonweb/Django-manage.py-anywhere/) - 可从任意地方运行 manage.py。找到距离最近的 manage.py 文件，并基于该文件运行命令。
+* [Logan, star:192](https://github.com/dcramer/logan) - 一个用于单独运行 Django 应用的工具集。它提供了用于创建一个 CLI 运行器，管理配置信息，及启动启动的工具。
 
 # 贡献
 
