@@ -556,7 +556,7 @@
 
 # 资源
 
-*Where to discover new Django apps and projects.*
+*探索新 Django 应用和项目的地方。*
 
 ## 图书
 
@@ -564,28 +564,28 @@
 * [Djen of Django](http://agiliq.com/books/djenofdjango/) (&lt; 1.7)
 * [Effective Django](http://www.effectivedjango.com/) (1.5)
 * [Getting started with Django](http://gettingstartedwithdjango.com/) (video)
-* [High Performance Django](https://highperformancedjango.com/) (1.7) - Deploying fast, scalable Django sites.
-* [Lightweight Django](http://shop.oreilly.com/product/0636920032502.do) (1.7) - Using REST, WebSockets, and Backbone with Django
+* [High Performance Django](https://highperformancedjango.com/) (1.7) - 部署快速、可扩展的 Django 站点。
+* [Lightweight Django](http://shop.oreilly.com/product/0636920032502.do) (1.7) - 使用 REST, WebSockets, Backbone 和 Django。
 * [Tango With Django](http://www.tangowithdjango.com/) (1.5)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.7)
-* [Two Scoops of Django: Best Practices for Django 1.8](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8/) - A best practice book for making Python and Django as fun as ice cream.
+* [Two Scoops of Django: Best Practices for Django 1.8](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8/) - 关于 Python 和 Django 开发的最佳实践的书。
 
 ## 网站
 
-* [Django Girls Tutorial](http://tutorial.djangogirls.org/) - A fun and engaging tutorial showing how to build a blog using Django and deploy it to Heroku.
-* [Django Introduction](http://www.django-introduction.com/) - A reusable set of slides to educate more people about Django.
-* [Django Packages](https://www.djangopackages.com/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
-* [Django Sites](https://www.djangosites.org) - Django Sites is a showcase of websites powered by Django.
-* [Full Stack Python's Django page](http://www.fullstackpython.com/django.html) - contains explanations for Django's philosophy and its components along with links to other resources and tutorials.
+* [Django Girls Tutorial](http://tutorial.djangogirls.org/) - 一篇有趣并且吸引人的教程，显示了如何使用 Django 创建一个 blog 并部署到 Heroku。
+* [Django Introduction](http://www.django-introduction.com/) - 一组可复用的幻灯片，可用于向更多人传授关于 Django 的知识。
+* [Django packages](https://github.com/pydanny/djangopackages/) - Django Packages 是一个 Django 的可复用应用，站点，工具等的目录。
+* [Django Sites](https://www.djangosites.org) - Django Sites 收集了基于 Django 的网站的案例。
+* [Full Stack Python's Django page](http://www.fullstackpython.com/django.html) - 包含对 Django 哲学及其组件的解释，并且还有链向其它资源和教程的链接。
 
 ## 会议
 
-* [Django Beer](https://www.djangobeer.com/) - the new meeting of the Django community of Florence.
-* [Django Village](http://djangovillage.it/) - the Italian Django community conference. An opportunity to meet djangonauts from all over Italy and abroad.
-* [Django Weekend](https://twitter.com/djangoweekend) - is a Django/Python non-profit community event, organised and run entirely by volunteers. The conference is Django-focused, but all aspects of Python fall within its remit.
-* [Django: Under The Hood](http://www.djangounderthehood.com/) - is an exciting new Django conference for experienced Django developers. Come and learn about the internals of Django, and help to shape its future.
-* [DjangoCon Europe](http://www.djangocon.eu/) - is the annual largest European-based Django conference that is usually held in late spring.
-* [DjangoCon US](http://www.djangocon.us/) - is the largest North American Django conference generally held the first week in September each year.
+* [Django Beer](https://www.djangobeer.com/) - 佛罗伦萨 Django 社区的聚会。
+* [Django Village](http://djangovillage.it/) - 意大利 Django 社会大会。与全意大利及海外 Django 人的好机会。
+* [Django Weekend](https://twitter.com/djangoweekend) - 是一个 Django/Python 非营利社区活动，完全由自愿者组织和运营。该大会主要关注 Django，但是有关 Python 的各个方面也都在其范围内。
+* [Django: Under The Hood](http://www.djangounderthehood.com/) - 是一个令人兴奋的针对有经验的 Django 开发人员的新 Django 会议。来学习关于 Django 的内部机理，帮助规划其愿景。
+* [DjangoCon Europe](http://www.djangocon.eu/) - 是欧洲年度最大的 Django 会议，通常在暮春举行。
+* [DjangoCon US](http://www.djangocon.us/) - 是北美最大的 Django 会议，通常在每年九月的第一周举行。
 
 # 非 Python 包
 
