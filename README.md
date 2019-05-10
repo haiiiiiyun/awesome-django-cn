@@ -72,6 +72,7 @@
 
 *扩展管理界面，增加或增强基功能特性的相关包。*
 
+* [django-simpleui, star:159](https://github.com/newpanjing/simpleui/) - 可用于 Django 管理界面的一个Vue+Element-ui的现代主题。
 * [djamin, star:214](https://github.com/hersonls/djamin/) - Django 管理界面的一种新样式。
 * [django-admin-bootstrap, star:468](https://github.com/django-admin-bootstrap/django-admin-bootstrap) - Django 管理界面的自适应皮肤。
 * [django-admin-bootstrapped, star:1360](https://github.com/django-admin-bootstrapped/django-admin-bootstrapped/) - 一种基于 Twitter Bootstrap 的 Django 管理界面主题。
