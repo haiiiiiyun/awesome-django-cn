@@ -252,6 +252,7 @@
 * [django-bootstrap3, star:1731](https://github.com/dyve/django-bootstrap3/) - 以 Django 的方式，在 Django 模板中使用 Bootstrap。
 * [django-crispy-forms, star:2756](https://github.com/maraujop/django-crispy-forms/) - 实现 DRY Django 表单的最好方式。该应用提供的 Tag 和 Filter 能让你快速将表单呈现成 div 格式，同时又提供大量的功能来配置和控制呈现的 HTML。
 * [django-floppyforms, star:681](https://github.com/gregmuellegger/django-floppyforms/) - django-floppyforms 这个应用能让你完全控制表单的呈现结果。表单 API 和功能与 Django 的完全相同，主要的不同在同它的表单项和表单组件是在模板中呈现的，而不是使用字符串处理完成，因此它能让你在使用 Django 模板中完成控制输出的结果。
+* [django-markdownify, star:35](https://github.com/erwinmatijsen/django-markdownify) - Django Markdownify 模板过滤器用于将 Markdown 文本转成 HTML。
 
 ## GIS
 
@@ -318,6 +319,7 @@
 
 * [django-model-report, star:156](https://github.com/juanpex/django-model-report/) - 一个集成了 highcharts 的 Django 报表应用。
 * [django-report-builder, star:453](https://github.com/burke-software/django-report-builder/) - Django ORM 的一个用户界面。能构建自定义的查询并显示结果。目标用户是系统管理员及不会编程的终端用户。
+* [WeasyPrint, star:3.7K](https://github.com/Kozea/WeasyPrint) - WeasyPrint 是 Web 开发人才创建 PDF 文档的智能方案。它能将简单的 HTML 页面转换成精致的统计报表、收据等。
 
 ## RESTful API
 
