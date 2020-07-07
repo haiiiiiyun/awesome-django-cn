@@ -293,7 +293,7 @@
 
 * [django-aggregate-if, star:125](https://github.com/henriquebastos/django-aggregate-if/) - 对 Django 查询进行条件聚合，就如 Excel 中的 SumIf 和 CountIf（2 年未更新）。
 * [django-localflavor, star:290](https://github.com/django/django-localflavor/) - 与国家信息有关的 Django 辅助包，即原先的 fame 贡献包。
-* [django-model-utils, star:1126](https://github.com/carljm/django-model-utils/) - Django 数据模型的 mixins 和工具集。
+* [django-model-utils, star:1126](https://github.com/carljm/django-model-utils/) - Django 数据模型的 mixins 和工具集，例如 TimeStampedModel。
 * [django-mptt, star:1439](https://github.com/django-mptt/django-mptt/) - 用来在 Django 中实现一个修订版的先序遍历树的工具集。
 * [django-treebeard, star:370](https://github.com/tabo/django-treebeard) - Django 中树数据结构的另一种实现(提供了 3 种不同的层级数据排序方法，包括 MPTT )。
 
@@ -403,6 +403,7 @@
 
 *有助于测试代码或创建测试数据的包。*
 
+* [factory_boy, star:2.2k](https://github.com/FactoryBoy/factory_boy) - factory_boy is a fixtures replacement based on thoughtbot's factory_bot。
 * [behave-django, star:29](https://github.com/behave/behave-django) - 将行为驱动开发 ([Behave BDD](https://pypi.python.org/pypi/behave)) 集成到 Django 中。
 * [django-behave, star:173](https://github.com/django-behave/django-behave/) - Behave BDD 模块的 TestRunner。
 * [django-dynamic-fixture, star:252](https://github.com/paulocheque/django-dynamic-fixture) - 可为测试目的动态地创建数据模拟实例。
@@ -493,7 +494,7 @@
 * [django-cors-headers, star:1435](https://github.com/ottoyiu/django-cors-headers) - 一个用于处理跨源资源共享(CORS) 所需的服务器头的 Django 应用。
 * [django-dfp, star:4](https://github.com/praekelt/django-dfp) - 一个应用，提供了用于获取 Google DFP 广告的标签。（2 年未更新）
 * [django-dynamic-scraper, star:552](https://github.com/holgerd77/django-dynamic-scraper/) - 能通过 Django 管理界面创建 Scrapy 抓取器。
-* [django-extensions, star:3111](https://github.com/django-extensions/django-extensions/) - 该仓库收集了有关 Django 框架的全局自定义管理扩展功能。
+* [django-extensions, star:3111](https://github.com/django-extensions/django-extensions/) - 该仓库收集了有关 Django 框架的全局自定义管理扩展功能，提供的管理功能 shell_plus 能在 django shell 中自动加载所有已安装应用的模型类。
 * [django-filter, star:1743](https://github.com/alex/django-filter/) - 一个通用的系统，能基于用户选择过滤 Django QuerySets。
 * [django-friendship, star:291](https://github.com/revsys/django-friendship/) - 用于管理从属或双向关系的 Django 应用。
 * [django-gravatar2, star:93](https://github.com/twaddington/django-gravatar/) - 主要实现在 Django 中支持 Gravatar。功能有辅助函数，模板标签和完整的测试。
