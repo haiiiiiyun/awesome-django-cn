@@ -552,6 +552,7 @@
 * [django-salted, star:329](https://github.com/wunki/django-salted/) - 使用 Vagrant 的 Django 项目全栈 SaltStack 配置。（4 年前更新）
 * [Drum, star:319](https://github.com/stephenmcd/drum) - Reddit / Hacker News 的克隆版，使用 Django/Mezzanine。
 * [koalixcrm, star:60](https://github.com/tfroehlich82/koalixcrm) - 适用于小业务的完美的 CRM/ERP。
+* [drf_admin, star:65](https://github.com/TianPangJi/drf_admin) - 基于RBAC权限管理后台管理系统。
 
 ## 项目管理
 
